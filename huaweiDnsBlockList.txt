@@ -102,3 +102,4 @@ grs.dbankcloud.cn
 openapi5.dbank.com
 appoptimize-dra.dbankcdn.com.home
 appdl2.dbankcdn.com
+cloudphoto-drcn.cloud.dbankcloud.cn
