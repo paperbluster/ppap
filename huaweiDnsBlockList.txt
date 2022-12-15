@@ -123,3 +123,4 @@ rms-drcn.platform.dbankcloud.cn
 passcommon-drcn.wallet.dbankcloud.cn
 dcep-drcn.wallet.dbankcloud.cn
 vcardmgt-drcn.wallet.dbankcloud.cn
+pkginstaller-drcn.hispace.dbankcloud.cn
