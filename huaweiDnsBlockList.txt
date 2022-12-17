@@ -124,3 +124,7 @@ passcommon-drcn.wallet.dbankcloud.cn
 dcep-drcn.wallet.dbankcloud.cn
 vcardmgt-drcn.wallet.dbankcloud.cn
 pkginstaller-drcn.hispace.dbankcloud.cn
+grs.dbankcloud.asianull
+grs.dbankcloud.eunull
+grs.dbankcloud.cnnull
+grs.dbankcloud.comnull
