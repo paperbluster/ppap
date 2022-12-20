@@ -128,3 +128,10 @@ grs.dbankcloud.asianull
 grs.dbankcloud.eunull
 grs.dbankcloud.cnnull
 grs.dbankcloud.comnull
+appdl6-drcn.dbankcdn.cn
+forum-api-drcn.jos.hicloud.com
+forum-api-drcn.jos.dbankcloud.cn
+appdl-3-drcn.dbankcdn.com
+store1.hispace.hicloud.com
+appdl-1-drcn.dbankcdn.com
+appsec.hicloud.com
