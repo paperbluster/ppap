@@ -1,5 +1,12 @@
 #huawei  dns  query  block lists
 grs.dbankcloud.com11
+metrics-drcn.dt.hihonorcloud.com
+api-prd-drcn.hiboard.hihonorcloud.com
+cota-global.magicui.hihonorcloud.com
+update.platform.hihonorcloud.com
+appresource-gw-drcn.hispace.hihonorcloud.com
+geo-drcn.magicui.hihonorcloud.com
+appresource-dl-drcn.hihonorcdn.com
 openapi-drcn.cloud.dbankcloud.cn
 business-drcn.cloud.dbankcloud.cn
 userk-drcn.cloud.dbankcloud.cn
