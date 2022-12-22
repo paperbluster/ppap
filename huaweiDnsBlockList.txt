@@ -1,4 +1,8 @@
 #huawei  dns  query  block lists
+api-prd-drcn.hiboard.hihonorcloud.com
+cloudrom-global.magicui.hihonorcloud.com
+configserver-drcn.platform.hihonorcloud.com
+configdownload-drcn.hihonorcdn.com
 grs.dbankcloud.com11
 metrics-drcn.dt.hihonorcloud.com
 api-prd-drcn.hiboard.hihonorcloud.com
