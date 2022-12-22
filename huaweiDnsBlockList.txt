@@ -1,5 +1,5 @@
 #huawei  dns  query  block lists
-
+installer-drcn.hispace.hihonorcloud.com
 cloudrom-global.magicui.hihonorcloud.com
 configserver-drcn.platform.hihonorcloud.com
 configdownload-drcn.hihonorcdn.com
