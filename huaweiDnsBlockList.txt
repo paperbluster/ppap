@@ -13,6 +13,13 @@
 ||p3-juejin.byteimg.com^
 ||p9-juejin.byteimg.com^
 ||juejin.cn^
+
+||widget-v4.tidiochat.com^
+||sentry.tidio.co^
+||homepage-cdn.tidio.com^
+||www.tidio.com^
+||socket.tidio.co^
+||code.tidio.co^
 #内网穿透禁止
 ||hsk.oray.com^
 ||ngrok.com^
