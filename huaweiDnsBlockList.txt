@@ -1,13 +1,11 @@
 #ip探测
-||wh.ipaddress.com^
-||s.ipaddress.com^
-||ipv6.ipaddress.com^
-||www.ipaddress.com^
+||*.ipaddress.com^
 ||ipaddress.com^
-||trk.ipaddress.com^
 ||ip.sb^
 
 #意义不明的东西
+
+
 ||p6-juejin.byteimg.com^
 ||api.juejin.cn^
 ||p1-juejin.byteimg.com^
