@@ -17,6 +17,7 @@
 ||flynat.51miaole.com^
 ||www.teamviewer.cn^
 ||www.oray.com^
+||www.natfrp.com^
 #huawei  dns  query  block lists
 configserver.platform.hihonorcloud.com
 installer-drcn.hispace.hihonorcloud.com
