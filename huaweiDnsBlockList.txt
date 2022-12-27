@@ -1,3 +1,10 @@
+#意义不明的东西
+||p6-juejin.byteimg.com^
+||api.juejin.cn^
+||p1-juejin.byteimg.com^
+||p3-juejin.byteimg.com^
+||p9-juejin.byteimg.com^
+||juejin.cn^
 #内网穿透禁止
 ||hsk.oray.com^
 ||ngrok.com^
