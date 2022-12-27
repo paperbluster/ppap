@@ -43,3 +43,10 @@
 ||*.hihonorcdn.*^
 ||*.huaweicloud.*^
 ||*.huawei.*^
+||*.myhuaweicloud.*^
+||*.cdnhwc1.*^
+
+||*.hwccpc.*^
+||*.cdnhwc2.*^
+||*.hw-sdk.*^
+||*.dbank.*^
