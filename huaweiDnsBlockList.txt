@@ -76,7 +76,9 @@
 ||flynat.51miaole.com^
 ||*.teamviewer.*^
 ||*.natfrp.*^
-#huawei  dns  query  block lists
+#huawei  dns  query  block 
+||liststerms1-hicloud-com-drcn.appacc.dbankedge.net^
+||music-atsongs-hw-drcn.tingmall.com^
 ||*.dbankcloud.*^
 ||*.dbankcdn.*^
 ||*.hicloud.*^
