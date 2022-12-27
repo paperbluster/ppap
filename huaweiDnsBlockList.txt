@@ -53,6 +53,8 @@
 ||p9-juejin.byteimg.com^
 ||juejin.cn^
 
+||*.jijifun.*^
+
 ||*.tidiochat.com^
 ||*.tidio.*^
 
