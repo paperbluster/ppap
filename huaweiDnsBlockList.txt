@@ -60,6 +60,8 @@
 
 ||*.tpid.es^
 
+||*.jellyfin.*^
+
 #内网穿透禁止
 ||*.oray.*^
 ||ngrok.com^
