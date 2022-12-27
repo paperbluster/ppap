@@ -13,12 +13,9 @@
 ||p9-juejin.byteimg.com^
 ||juejin.cn^
 
-||widget-v4.tidiochat.com^
-||sentry.tidio.co^
-||homepage-cdn.tidio.com^
-||www.tidio.com^
-||socket.tidio.co^
-||code.tidio.co^
+||*.tidiochat.com^
+||*.tidio.com^
+||*.tidio.co^
 
 ||*.tpid.es^
 
