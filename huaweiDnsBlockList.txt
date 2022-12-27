@@ -15,7 +15,7 @@ https://echosites.com
 https://lanp.nioee.com
 https://nat.nioee.com
 https://flynat.51miaole.com
-https://www.teamviewer.cn/cn/
+www.teamviewer.cn
 
 #huawei  dns  query  block lists
 configserver.platform.hihonorcloud.com
