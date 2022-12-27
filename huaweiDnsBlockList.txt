@@ -60,8 +60,6 @@
 ||contentcenter-drcn.dbankcdn.globalsign.c.cdnhwc1.cn^
 ||browserr-drcn.dbankcdn.globalsign.c.cdnhwc1.cn^
 ||browserr-drcn.dbankcdn.cn.cdn.dnsv1.com^
-||grs.platform.dbankcloud.ru^
-||grs.dbankcloud.asia^
 ||service-cn.hwccpc.com^
 ||grs.dbankcloud.asia11^
 ||grs.dbankcloud.eu11^
@@ -77,6 +75,8 @@
 ||grs.dbankcloud.cnnull^
 ||grs.dbankcloud.comnull^
 
+||*.dbankcloud.ru^
+||*.dbankcloud.asia^
 ||*.dbankcloud.com11^
 ||*.dbankcloud.cn^
 ||*.dbankcloud.com^
