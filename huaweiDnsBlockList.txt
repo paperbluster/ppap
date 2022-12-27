@@ -46,6 +46,7 @@
 ||api.ttt.sh^
 
 #意义不明的东西
+||*.vzuu.*^
 ||*.prod.do.dsp.mp.microsoft.*^
 
 ||p6-juejin.byteimg.com^
