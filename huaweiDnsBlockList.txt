@@ -40,7 +40,7 @@
 ||www.oray.com^
 ||www.natfrp.com^
 #huawei  dns  query  block lists
-||connectivitycheck.cbg-app.huawei.com^
+
 ||nsp-logservice-hiview-p43-drcn.obs.cn-north-2.myhuaweicloud.com^
 ||h5hosting.dbankcdn.com.c.cdnhwc1.com^
 ||appdl6-drcn.dbankcdn.80800000.globalsign.c.cdnhwc1.cn^
