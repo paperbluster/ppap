@@ -46,6 +46,8 @@
 ||api.ttt.sh^
 
 #意义不明的东西
+||*.prod.do.dsp.mp.microsoft.*^
+
 ||p6-juejin.byteimg.com^
 ||api.juejin.cn^
 ||p1-juejin.byteimg.com^
