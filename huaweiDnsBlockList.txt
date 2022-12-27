@@ -1,3 +1,20 @@
+#内网穿透禁止
+https://hsk.oray.com
+https://ngrok.com
+https://www.cpolar.com
+https://openid.13a.com
+https://cloud.zhexi.tech
+http://www.nat123.com
+https://ngrok.com
+https://www.tinc-vpn.org
+https://www.zerotier.com
+https://natapp.cn
+http://www.xiaomiqiu.cn
+https://www.ngrok.cc
+https://echosites.com
+https://lanp.nioee.com
+https://nat.nioee.com
+
 #huawei  dns  query  block lists
 configserver.platform.hihonorcloud.com
 installer-drcn.hispace.hihonorcloud.com
