@@ -1,3 +1,7 @@
+#联想中国
+||*.lenovomm.*^
+||*.lenovo.*^
+
 #ip探测
 ||*.ipaddress.*^
 ||ipaddress.com^
