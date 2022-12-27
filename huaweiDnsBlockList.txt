@@ -40,21 +40,13 @@
 ||www.oray.com^
 ||www.natfrp.com^
 #huawei  dns  query  block lists
-
-
-||grs.dbankcloud.com11^
-
-
 ||connectivitycheck.cbg-app.huawei.com^
 ||nsp-logservice-hiview-p43-drcn.obs.cn-north-2.myhuaweicloud.com^
-
 ||h5hosting.dbankcdn.com.c.cdnhwc1.com^
 ||appdl6-drcn.dbankcdn.80800000.globalsign.c.cdnhwc1.cn^
 ||cloudres-drcn.dbankcdn.cn^
 ||h5hosting.dbankcdn.com^
 ||h5hosting.dbankcdn.com.cdn.dnsv1.com^
-
-
 ||cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com^
 ||cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com^
 ||appimg.dbankcdn.com.c.cdnhwc1.com^
@@ -68,8 +60,6 @@
 ||contentcenter-drcn.dbankcdn.globalsign.c.cdnhwc1.cn^
 ||browserr-drcn.dbankcdn.globalsign.c.cdnhwc1.cn^
 ||browserr-drcn.dbankcdn.cn.cdn.dnsv1.com^
-
-
 ||grs.platform.dbankcloud.ru^
 ||grs.dbankcloud.asia^
 ||service-cn.hwccpc.com^
@@ -87,18 +77,15 @@
 ||grs.dbankcloud.cnnull^
 ||grs.dbankcloud.comnull^
 
-
+||*.dbankcloud.com11^
 ||*.dbankcloud.cn^
 ||*.dbankcloud.com^
 ||*.dbankcdn.com^
 ||*.dbankcdn.cn^
-
 ||*.hicloud.com^
-
 ||*.hihonor.com^
 ||*.hihonorcloud.com^
 ||*.hihonorcdn.com^
-
 ||*.huaweicloud.com^
 ||*.huawei.com^
 ||*.huawei.com.cn^
