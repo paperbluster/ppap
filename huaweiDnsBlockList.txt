@@ -1,11 +1,9 @@
 #ip探测
-||*.ipaddress.com^
+||*.ipaddress.*^
 ||ipaddress.com^
 ||ip.sb^
 
 #意义不明的东西
-
-
 ||p6-juejin.byteimg.com^
 ||api.juejin.cn^
 ||p1-juejin.byteimg.com^
@@ -14,31 +12,27 @@
 ||juejin.cn^
 
 ||*.tidiochat.com^
-||*.tidio.com^
-||*.tidio.co^
+||*.tidio.*^
 
 ||*.tpid.es^
 
 #内网穿透禁止
-||hsk.oray.com^
+||*.oray.*^
 ||ngrok.com^
-||www.cpolar.com^
+||*.cpolar.*^
 ||openid.13a.com^
 ||cloud.zhexi.tech^
-||www.nat123.com^
-||ngrok.com^
+||*.nat123.*^
 ||www.tinc-vpn.org^
 ||www.zerotier.com^
 ||natapp.cn^
 ||www.xiaomiqiu.cn^
-||www.ngrok.cc^
+||*.ngrok.*^
 ||echosites.com^
-||lanp.nioee.com^
-||nat.nioee.com^
+||*.nioee.*^
 ||flynat.51miaole.com^
-||www.teamviewer.cn^
-||www.oray.com^
-||www.natfrp.com^
+||*.teamviewer.*^
+||*.natfrp.*^
 #huawei  dns  query  block lists
 
 ||*.dbankcloud.*^
