@@ -47,12 +47,6 @@
 ||*.prod.do.dsp.mp.microsoft.*^
 ||*.xiaomi.*^
 ||cdn.cnbj1.fds.api.mi-img.com^
-||p6-juejin.byteimg.com^
-||api.juejin.cn^
-||p1-juejin.byteimg.com^
-||p3-juejin.byteimg.com^
-||p9-juejin.byteimg.com^
-||juejin.cn^
 ||*.tidiochat.com^
 ||*.tidio.*^
 ||*.tpid.es^
