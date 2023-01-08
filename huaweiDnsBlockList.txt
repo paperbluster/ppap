@@ -58,7 +58,6 @@
 ||cloud.zhexi.tech^
 ||*.nat123.*^
 ||www.tinc-vpn.org^
-||www.zerotier.com^
 ||natapp.cn^
 ||www.xiaomiqiu.cn^
 ||*.ngrok.*^
