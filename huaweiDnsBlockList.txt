@@ -1,3 +1,6 @@
+#电视盒子引发的updn漏洞
+||tvkoudai.com^
+||app.adjust.com^
 #联想中国
 ||*.lenovomm.*^
 ||*.lenovo.*^
