@@ -1,3 +1,5 @@
+#360\主干通信安全检测
+||playable.qihuapi.com^
 #电视盒子挖矿?
 ||tracker.shuntv.net^
 #可疑的隐私获取
