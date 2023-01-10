@@ -1,7 +1,8 @@
 #电视盒子挖矿?
 ||tracker.shuntv.net^
 #可疑的隐私获取
-
+#语音软件
+||adv.peasun.net^
 #暂时保留
 @@||funcaptcha.com^
 #日常必须
