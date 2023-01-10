@@ -1,3 +1,16 @@
+#日常必须
+@@||www.msn.cn^$important
+@@||www.youtube.com^$important
+@@||youtube.com^$important
+@@||dns.google^$important
+@@||maps.google.com^$important
+@@||news.google.com^$important
+@@||lh3.googleusercontent.com^$important
+@@||translate.googleapis.com^$important
+@@||lh6.googleusercontent.com^$important
+@@||lh4.googleusercontent.com^$important
+@@||dns.google.com^$important
+@@||doc-08-c8-docs.googleusercontent.com^$important
 #电视盒子引发的updn漏洞
 ||tvkoudai.com^
 ||app.adjust.com^
