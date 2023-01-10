@@ -16,6 +16,7 @@
 @@||news.google.com^
 @@||translate.googleapis.com^
 @@||dns.google.com^
+@@||myaccount.google.com^
 #电视盒子引发的updn漏洞
 ||tvkoudai.com^
 ||app.adjust.com^
