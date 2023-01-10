@@ -1,3 +1,5 @@
+#可疑的隐私获取
+||*.steelseries.*^
 #暂时保留
 @@||funcaptcha.com^
 #日常必须
