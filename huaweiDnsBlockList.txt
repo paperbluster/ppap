@@ -47,8 +47,6 @@
 ||umengcloud.com^
 ||umeng.co^
 #ip探测
-||*.ipaddress.*^
-||ipaddress.com^
 ||ip.sb^
 ||api.ttt.sh^
 #意义不明的东西
