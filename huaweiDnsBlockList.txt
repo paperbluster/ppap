@@ -7,8 +7,6 @@
 ||adv.peasun.net^
 #暂时保留
 @@||funcaptcha.com^
-
-
 #电视盒子引发的updn漏洞
 ||tvkoudai.com^
 ||app.adjust.com^
@@ -18,7 +16,6 @@
 ||*.lenovo.*^
 #百度输入法
 ||mime.baidu.com^
-
 #下面是哔哩哔哩的隐私收集还有广告
 ||bigfun.cn^
 ||biligame.com^
@@ -58,11 +55,6 @@
 ||api.ttt.sh^
 #意义不明的东西
 ||*.vzuu.*^
-
-
-
-
-
 #huawei  dns  query  block 
 ||liststerms1-hicloud-com-drcn.appacc.dbankedge.net^
 ||music-atsongs-hw-drcn.tingmall.com^
