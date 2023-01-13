@@ -1,3 +1,11 @@
+#必须开放的谷歌
+@@||beacons.gvt2.com^
+@@||beacons5.gvt3.com^
+@@||beacons4.gvt2.com^
+@@||beacons.gcp.gvt2.com^
+@@||beacons2.gvt2.com^
+@@||beacons3.gvt2.com^
+@@||beacons5.gvt2.com^
 #360\主干通信安全检测
 ||playable.qihuapi.com^
 #可疑的隐私获取
