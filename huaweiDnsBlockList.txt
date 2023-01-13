@@ -61,7 +61,7 @@
 
 
 
-||*.tpid.es^
+
 
 #huawei  dns  query  block 
 ||liststerms1-hicloud-com-drcn.appacc.dbankedge.net^
