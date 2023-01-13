@@ -59,9 +59,8 @@
 #意义不明的东西
 ||*.vzuu.*^
 
-||cdn.cnbj1.fds.api.mi-img.com^
-||*.tidiochat.com^
-||*.tidio.*^
+
+
 ||*.tpid.es^
 
 #huawei  dns  query  block 
