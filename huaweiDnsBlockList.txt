@@ -58,8 +58,7 @@
 ||api.ttt.sh^
 #意义不明的东西
 ||*.vzuu.*^
-||*.prod.do.dsp.mp.microsoft.*^
-||*.xiaomi.*^
+
 ||cdn.cnbj1.fds.api.mi-img.com^
 ||*.tidiochat.com^
 ||*.tidio.*^
