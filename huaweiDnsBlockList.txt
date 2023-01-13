@@ -53,6 +53,7 @@
 ||api.ttt.sh^
 #意义不明的东西
 ||*.vzuu.*^
+||activity.windows.com^
 #huawei  dns  query  block 
 ||liststerms1-hicloud-com-drcn.appacc.dbankedge.net^
 ||music-atsongs-hw-drcn.tingmall.com^
