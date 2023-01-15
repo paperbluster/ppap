@@ -54,9 +54,6 @@
 #下面是友盟广告
 ||umengcloud.com^
 ||umeng.co^
-#ip探测
-||ip.sb^
-||api.ttt.sh^
 #意义不明的东西
 ||*.vzuu.*^
 ||activity.windows.com^
