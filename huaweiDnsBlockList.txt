@@ -9,6 +9,7 @@
 #360\主干通信安全检测
 ||playable.qihuapi.com^
 #可疑的隐私获取
+||cstaticdun.126.net^
 #语音软件
 ||adv.peasun.net^
 #暂时保留
