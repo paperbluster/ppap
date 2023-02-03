@@ -75,3 +75,4 @@
 ||*.hw-sdk.*^
 ||*.dbank.*^
 ||*.hw.*^
+||*.hwtracking.*^
