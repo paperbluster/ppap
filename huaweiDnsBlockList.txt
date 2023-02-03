@@ -10,6 +10,7 @@
 ||playable.qihuapi.com^
 #可疑的隐私获取
 ||cstaticdun.126.net^
+||dun.163.com^
 #语音软件
 ||adv.peasun.net^
 #暂时保留
