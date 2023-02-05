@@ -80,3 +80,5 @@
 ||*.hwtracking.*^
 #反对大数据
 ||*.datafocus.*^
+#反诈
+||flash.sec.miui.com^
