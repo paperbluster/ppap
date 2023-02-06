@@ -103,8 +103,15 @@
 
 
 
-miav-cse.avlyun.com［腾讯/安天］
-a0.app.xiaomi.com［小米跟踪API］
-miui-fxcse.avlyun.com［腾讯/安天］
-api.installer.xiaomi.com［应用包扫描API］
+
+
+
+
+
+
+
+
+
+
+
 
