@@ -25,3 +25,5 @@ payload:
   - DOMAIN-KEYWORD,aliyuncs
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,tencent-cloud
