@@ -23,6 +23,7 @@ payload:
   - DOMAIN,hostloc.com
   - DOMAIN,share.acgnx.se
   - DOMAIN,machbbs.com
+  - DOMAIN,cangku.moe
   
   
   
