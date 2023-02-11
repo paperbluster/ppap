@@ -14,4 +14,14 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN,nyaa.si
   - DOMAIN,x.xmoon.best
+  - DOMAIN-KEYWORD,snow-plus
+  - DOMAIN,bbs.imoutolove.me
+  - DOMAIN-KEYWORD,east-plus
+  - DOMAIN-KEYWORD,pixiv
+  - DOMAIN,www.dlsite.com
+  
+  
+  
+  
+
 
