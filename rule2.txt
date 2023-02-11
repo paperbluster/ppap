@@ -30,6 +30,7 @@ payload:
   - DOMAIN,mega.io
   - DOMAIN,share.dmhy.org
   - DOMAIN,bangumi.moe
+  - DOMAIN,sukebei.nyaa.si
   
   
   
