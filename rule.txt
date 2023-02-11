@@ -12,3 +12,4 @@ payload:
   - DST-PORT,5244
   - DOMAIN-KEYWORD,bilivideo
   - DOMAIN-KEYWORD,tv
+  - DOMAIN,baidu.live.cqccn.com
