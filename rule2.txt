@@ -13,4 +13,5 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,youtube
   - DOMAIN,nyaa.si
+  - DOMAIN,x.xmoon.best
 
