@@ -19,6 +19,9 @@ payload:
   - DOMAIN-KEYWORD,east-plus
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN,www.dlsite.com
+  - DOMAIN,www.nivod.tv
+  - DOMAIN,hostloc.com
+  
   
   
   
