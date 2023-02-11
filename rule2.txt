@@ -21,6 +21,8 @@ payload:
   - DOMAIN,www.dlsite.com
   - DOMAIN,www.nivod.tv
   - DOMAIN,hostloc.com
+  - DOMAIN,share.acgnx.se
+  
   
   
   
