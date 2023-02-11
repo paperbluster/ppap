@@ -25,6 +25,7 @@ payload:
   - DOMAIN,machbbs.com
   - DOMAIN,cangku.moe
   - DOMAIN-KEYWORD,v2ex.com
+  - DOMAIN,discord.com
   
   
   
