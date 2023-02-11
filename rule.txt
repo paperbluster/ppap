@@ -28,3 +28,6 @@ payload:
   - DOMAIN-KEYWORD,tencent
   - DOMAIN-KEYWORD,tencent-cloud
   - DOMAIN-KEYWORD,biliapi
+  - DOMAIN-KEYWORD,music.126
+  - DOMAIN-KEYWORD,music.163
+  
