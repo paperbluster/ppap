@@ -97,3 +97,6 @@
 ||api.installer.xiaomi.com^
 ||tmfsdk.m.qq.com^
 ||a0.app.xiaomi.com^
+#强制放开
+@@||d.skk.moe^
+@@||api.ipify.org^
