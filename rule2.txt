@@ -27,6 +27,7 @@ payload:
   - DOMAIN-KEYWORD,v2ex.com
   - DOMAIN,discord.com
   - DOMAIN-KEYWORD,nhentai
+  - DOMAIN,mega.io
   
   
   
