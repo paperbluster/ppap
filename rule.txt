@@ -23,4 +23,5 @@ payload:
   - DOMAIN,pan.baidu.com
   - DOMAIN-KEYWORD,aliyundrive.com
   - DOMAIN-KEYWORD,aliyuncs
+  - DOMAIN-KEYWORD,alipay
   
