@@ -22,5 +22,5 @@ payload:
   - DOMAIN,www.right.com.cn
   - DOMAIN,pan.baidu.com
   - DOMAIN-KEYWORD,aliyundrive.com
-  
+  - DOMAIN-KEYWORD,aliyuncs
   
