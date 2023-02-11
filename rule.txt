@@ -20,4 +20,5 @@ payload:
   - DOMAIN-KEYWORD,qq
   - DOMAIN,www.zhipin.com
   - DOMAIN,www.right.com.cn
+  - DOMAIN,pan.baidu.com
   
