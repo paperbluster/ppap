@@ -16,3 +16,7 @@ payload:
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,qiyou
   - DOMAIN-KEYWORD,iqiyi
+  - DOMAIN-KEYWORD,youku
+  - DOMAIN-KEYWORD,qq
+  - DOMAIN,www.zhipin.com
+  
