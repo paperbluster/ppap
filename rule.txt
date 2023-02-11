@@ -14,3 +14,4 @@ payload:
   - DOMAIN-KEYWORD,tv
   - DOMAIN,baidu.live.cqccn.com
   - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,qiyou
