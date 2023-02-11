@@ -27,3 +27,4 @@ payload:
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,tencent
   - DOMAIN-KEYWORD,tencent-cloud
+  - DOMAIN-KEYWORD,biliapi
