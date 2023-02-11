@@ -26,6 +26,7 @@ payload:
   - DOMAIN,cangku.moe
   - DOMAIN-KEYWORD,v2ex.com
   - DOMAIN,discord.com
+  - DOMAIN-KEYWORD,nhentai
   
   
   
