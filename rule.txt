@@ -1,4 +1,4 @@
-#===================== 自定义规则 一 =====================#
+#===================== 自定义规则 一 直连 =====================#
 ##- DOMAIN-SUFFIX,google.com,Proxy 匹配域名后缀(交由Proxy代理服务器组)
 ##- DOMAIN-KEYWORD,google,Proxy 匹配域名关键字(交由Proxy代理服务器组)
 ##- DOMAIN,google.com,Proxy 匹配域名(交由Proxy代理服务器组)
@@ -7,7 +7,8 @@
 ##- SRC-IP-CIDR,192.168.1.201/32,DIRECT 匹配数据发起IP(直连)
 ##- DST-PORT,80,DIRECT 匹配数据目标端口(直连)
 ##- SRC-PORT,7777,DIRECT 匹配数据源端口(直连)
-- DOMAIN-KEYWORD,bilibili,DIRECT
-- DST-PORT,5244,DIRECT
-- DOMAIN-KEYWORD,bilivideo,DIRECT
-- DOMAIN-KEYWORD,tv,DIRECT
+payload:
+  - DOMAIN-KEYWORD,bilibili
+  - DST-PORT,5244
+  - DOMAIN-KEYWORD,bilivideo
+  - DOMAIN-KEYWORD,tv
