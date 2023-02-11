@@ -13,3 +13,4 @@ payload:
   - DOMAIN-KEYWORD,bilivideo
   - DOMAIN-KEYWORD,tv
   - DOMAIN,baidu.live.cqccn.com
+  - DOMAIN-KEYWORD,alicdn
