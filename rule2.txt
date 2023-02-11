@@ -28,7 +28,7 @@ payload:
   - DOMAIN,discord.com
   - DOMAIN-KEYWORD,nhentai
   - DOMAIN,mega.io
-  
+  - DOMAIN,share.dmhy.org
   
   
   
