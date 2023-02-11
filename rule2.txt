@@ -24,6 +24,7 @@ payload:
   - DOMAIN,share.acgnx.se
   - DOMAIN,machbbs.com
   - DOMAIN,cangku.moe
+  - DOMAIN-KEYWORD,v2ex.com
   
   
   
