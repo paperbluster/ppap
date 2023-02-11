@@ -31,6 +31,9 @@ payload:
   - DOMAIN,share.dmhy.org
   - DOMAIN,bangumi.moe
   - DOMAIN,sukebei.nyaa.si
+  - DOMAIN,www.reddit.com
+  - DOMAIN-KEYWORD,reddit
+  
   
   
   
