@@ -22,6 +22,7 @@ payload:
   - DOMAIN,www.nivod.tv
   - DOMAIN,hostloc.com
   - DOMAIN,share.acgnx.se
+  - DOMAIN,machbbs.com
   
   
   
