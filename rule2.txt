@@ -29,6 +29,7 @@ payload:
   - DOMAIN-KEYWORD,nhentai
   - DOMAIN,mega.io
   - DOMAIN,share.dmhy.org
+  - DOMAIN,bangumi.moe
   
   
   
