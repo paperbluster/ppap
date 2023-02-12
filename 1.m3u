@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="斗鱼",爱情公寓
 http://192.168.5.1:35455/douyu/5062195
 #EXTINF:-1 group-title="斗鱼",万合天宜
@@ -47,6 +48,8 @@ http://192.168.5.1:35455/douyu/5377297
 http://192.168.5.1:35455/douyu/8231658
 #EXTINF:-1 group-title="斗鱼",动画工厂3
 http://192.168.5.1:35455/douyu/6610883
+#EXTINF:-1 group-title="斗鱼",动画工厂4
+http://192.168.5.1:35455/douyu/7620081
 #EXTINF:-1 group-title="斗鱼",柯南3
 http://192.168.5.1:35455/douyu/7050342
 #EXTINF:-1 group-title="斗鱼",犬夜叉
@@ -65,3 +68,20 @@ http://192.168.5.1:35455/douyu/11019077
 http://192.168.5.1:35455/huya/11342412
 #EXTINF:-1 group-title="虎牙",TVB
 http://192.168.5.1:35455/huya/23903130
+#EXTINF:-1 group-title="虎牙",虹猫蓝兔七侠传
+http://192.168.5.1:35455/huya/22592516
+#EXTINF:-1 group-title="虎牙",林正英
+http://192.168.5.1:35455/huya/11342421
+#EXTINF:-1 group-title="虎牙",爱情公寓
+http://192.168.5.1:35455/huya/11336726
+#EXTINF:-1 group-title="虎牙",铁三角电视剧
+http://192.168.5.1:35455/huya/11342396
+#EXTINF:-1 group-title="虎牙",陈小春版韦小宝
+http://192.168.5.1:35455/huya/23865080
+#EXTINF:-1 group-title="虎牙",陈翔六点半
+http://192.168.5.1:35455/huya/cxldb
+#EXTINF:-1 group-title="虎牙",新三国
+http://192.168.5.1:35455/huya/11352944
+#EXTINF:-1 group-title="虎牙",沈腾
+http://192.168.5.1:35455/huya/11601968
+
