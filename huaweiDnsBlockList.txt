@@ -100,3 +100,6 @@
 #强制放开
 @@||d.skk.moe^
 @@||api.ipify.org^
+#tvheadend
+||tivimate.b4a.io^
+||parseapi.back4app.com^
