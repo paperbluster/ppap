@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="哔哩哔哩",猫和老鼠
+http://192.168.5.1:35455/bilibili/26713303?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",猫和老鼠
+http://192.168.5.1:35455/bilibili/26713303?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",国语日漫轮播
 http://192.168.5.1:35455/bilibili/21295520?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",经典日漫
