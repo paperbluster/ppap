@@ -1,10 +1,116 @@
 #EXTM3U
-#EXTINF:-1 group-title="抖音",河北广播电视台
-http://192.168.5.1:35455/douyin/826448152180
-#EXTINF:-1 group-title="抖音",湖北发布
-http://192.168.5.1:35455/douyin/920378299357
-#EXTINF:-1 group-title="抖音",百姓关注
-http://192.168.5.1:35455/douyin/82078520952
+#EXTINF:-1 group-title="哔哩哔哩",猫和老鼠
+http://192.168.5.1:35455/bilibili/2171135?line=first
+#EXTINF:-1 group-title="Youtube",JapaNews24 ～日本のニュースを24時間配信
+http://192.168.5.1:35455/youtube/coYw-eVU0Ks
+#EXTINF:-1 group-title="Youtube",ABC NEWS
+http://192.168.5.1:35455/youtube/w_Ma8oQLmSM
+#EXTINF:-1 group-title="Youtube",日テレNEWS
+http://192.168.5.1:35455/youtube/6C9j67tPQwQ
+#EXTINF:-1 group-title="Youtube",Aquarium 4K VIDEO (ULTRA HD) 🐠 Sea Animals With Relaxing Music - Rare & Colorful Sea Life Video
+http://192.168.5.1:35455/youtube/eKjOWxvKuY0
+#EXTINF:-1 group-title="Youtube",4K非洲动物：乞力马扎罗国家公园 - 关于非洲野生动物的视频轻松音乐
+http://192.168.5.1:35455/youtube/8gxq0Gdim6c
+#EXTINF:-1 group-title="Youtube",我们的星球| 4K动物世界：野生动物的收藏 - 风景秀丽的野生动物电影与平静的音乐
+http://192.168.5.1:35455/youtube/a9LmHL0pWw8
+#EXTINF:-1 group-title="Youtube",4K非洲动物：塞伦盖蒂国家公园 - 非洲野生动物和动物具有真实的声音
+http://192.168.5.1:35455/youtube/gkPPU1fjbuk
+#EXTINF:-1 group-title="Youtube",动物王国 4K - 超高清 4K 屏幕模式下美丽的野生动物收藏
+http://192.168.5.1:35455/youtube/OnnHDcdT-kk
+#EXTINF:-1 group-title="Youtube",TV for Dogs!
+http://192.168.5.1:35455/youtube/xd_daWI2NI8
+#EXTINF:-1 group-title="Youtube",飞越意大利（4K视频UHD） - 镇静音乐，令人惊叹的美丽自然电影，放松身心
+http://192.168.5.1:35455/youtube/qlgbB446WdY
+#EXTINF:-1 group-title="Youtube",Nature 4K 休闲电影 (4K UHD) - 带有平静音乐的风景自然电影
+http://192.168.5.1:35455/youtube/U-e2v93nU9o
+#EXTINF:-1 group-title="Youtube",アニソン24時間365日ラジオ(βバージョン)｜Anileap アニリープ｜24/7 anime song live stream beta version
+http://192.168.5.1:35455/youtube/4FBW3mkdKOs
+#EXTINF:-1 group-title="Youtube",lofi hip hop radio - beats to relax/study to
+http://192.168.5.1:35455/youtube/jfKfPfyJRdk
+#EXTINF:-1 group-title="Youtube",lofi hip hop radio - beats to sleep/chill to
+http://192.168.5.1:35455/youtube/rUxyKA_-grg
+#EXTINF:-1 group-title="Youtube",jazz/lofi hip hop radio🌱适合学习/放松/读书 [LIVE 24/7] 舒服的爵士乐/徜徉在轻柔旋律中🎷
+http://192.168.5.1:35455/youtube/kgx4WGK0oNU
+#EXTINF:-1 group-title="Youtube",lofi hip hop radio - beats to study/relax to 🐾
+http://192.168.5.1:35455/youtube/7NOSDKb0HlU
+#EXTINF:-1 group-title="Youtube",Lofi theme quran recitations to listen to, relaxing quran with lofi anime
+http://192.168.5.1:35455/youtube/d22KYHiTrEc
+#EXTINF:-1 group-title="Youtube",腾讯动漫
+http://192.168.5.1:35455/youtube/FlgFQV006dk
+#EXTINF:-1 group-title="Youtube",3小時50首特選最佳抒情歌
+http://192.168.5.1:35455/youtube/NR8FQt09btc
+#EXTINF:-1 group-title="Youtube",經典粵語歌曲
+http://192.168.5.1:35455/youtube/ZVnOFVPwn9U
+#EXTINF:-1 group-title="Youtube",Panda 24/7 HD Live At Chengdu Panda Base
+http://192.168.5.1:35455/youtube/MIA8AKVZ0Yk
+
+#EXTINF:-1 group-title="Youtube",小狐狸 中文学习动漫
+http://192.168.5.1:35455/youtube/kAOP8XYeCSc
+
+#EXTINF:-1 group-title="Youtube",猪猪侠大电影
+http://192.168.5.1:35455/youtube/edNtSfVNNU4
+#EXTINF:-1 group-title="Youtube",喜羊羊与灰太狼
+http://192.168.5.1:35455/youtube/RcjA82KMGio
+
+#EXTINF:-1 group-title="Youtube",澳洲賽馬直播
+http://192.168.5.1:35455/youtube/Kc3Xio31Tv4
+#EXTINF:-1 group-title="Youtube",大熊猫花花和它的熊猫家族快乐直播
+http://192.168.5.1:35455/youtube/ckx1fOKIaX8
+#EXTINF:-1 group-title="Youtube",24小時 LIVE 直播中-4K 2160P 台灣彰化 溪湖 即時影像 (天氣動態)
+http://192.168.5.1:35455/youtube/R54A8pffY7A
+#EXTINF:-1 group-title="Youtube",『終極系列』24小時馬拉松新春直播
+http://192.168.5.1:35455/youtube/enfzhjNw3M8
+#EXTINF:-1 group-title="Youtube",阿里山美景直播
+http://192.168.5.1:35455/youtube/dY2cRNr5Buw
+#EXTINF:-1 group-title="Youtube",運通財經台
+http://192.168.5.1:35455/youtube/n4WYiJyiThQ
+#EXTINF:-1 group-title="Youtube",Timeless Music #經典元宇宙24小時不間斷直播
+http://192.168.5.1:35455/youtube/ni1CxDStx0Y
+#EXTINF:-1 group-title="Youtube",小猪佩奇
+http://192.168.5.1:35455/youtube/ni1CxDStx0Y
+#EXTINF:-1 group-title="Youtube",民視新聞 FTV 新聞直播
+http://192.168.5.1:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1 group-title="Youtube",中視新聞
+http://192.168.5.1:35455/youtube/41a7IsCSAnQ
+#EXTINF:-1 group-title="Youtube",華視綜藝頻道
+http://192.168.5.1:35455/youtube/GY2pvOnOjpA
+#EXTINF:-1 group-title="Youtube",全球大視野 中天直播#LIVE
+http://192.168.5.1:35455/youtube/EI28E5EU2Y0
+#EXTINF:-1 group-title="Youtube",华视新闻直播 CH52
+http://192.168.5.1:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1 group-title="Youtube",寰宇新聞Live直播
+http://192.168.5.1:35455/youtube/1baN3SZYWc0
+#EXTINF:-1 group-title="Youtube",TVBS新聞台 24 小時直播
+http://192.168.5.1:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1 group-title="Youtube",鏡新聞 mnews 24小時 線上直播
+http://192.168.5.1:35455/youtube/5n0y6b0Q25o
+#EXTINF:-1 group-title="Youtube",國會頻道１ | 國會頻道-立法院議事轉播
+http://192.168.5.1:35455/youtube/4HysYHJ6GkY
+#EXTINF:-1 group-title="Youtube",EBC 東森財經新聞24小時線上直播
+http://192.168.5.1:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1 group-title="Youtube",中天直播#LIVE
+http://192.168.5.1:35455/youtube/kpbTLiddryA
+#EXTINF:-1 group-title="Youtube",EBC 東森新聞 51 頻道 24 小時線上直播
+http://192.168.5.1:35455/youtube/R2iMq5LKXco
+#EXTINF:-1 group-title="Youtube",台視新聞台HD 24 小時線上直播
+http://192.168.5.1:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="Youtube",三立 iNEWS 新聞
+http://192.168.5.1:35455/youtube/CKjSm5ZeehE
+#EXTINF:-1 group-title="Youtube",中視新聞LIVE直播頻道24小時線上直播
+http://192.168.5.1:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 group-title="Youtube",鳳凰衛視PhoenixTV
+http://192.168.5.1:35455/youtube/dmDg7NfUoSw
+#EXTINF:-1 group-title="Youtube",寰宇新聞台
+http://192.168.5.1:35455/youtube/B7Zp3d6xXWw
+#EXTINF:-1 group-title="Youtube",《琴問謙答》
+http://192.168.5.1:35455/youtube/r9WAJaVyeJk
+#EXTINF:-1 group-title="Youtube",CTI中天新聞24小時HD新聞直播
+http://192.168.5.1:35455/youtube/_QbRXRnHMVY
+#EXTINF:-1 group-title="Youtube",CCTV4
+http://192.168.5.1:35455/youtube/QTz6avPD4Ns
+#EXTINF:-1 group-title="Youtube",平静祥和的咖啡厅钢琴曲
+http://192.168.5.1:35455/youtube/cK4LemjoFd0
+
 #EXTINF:-1 group-title="斗鱼",郭杰瑞
 http://192.168.5.1:35455/douyu/7357786
 #EXTINF:-1 group-title="斗鱼",爱情公寓
@@ -91,6 +197,9 @@ http://192.168.5.1:35455/huya/cxldb
 http://192.168.5.1:35455/huya/11352944
 #EXTINF:-1 group-title="虎牙",沈腾
 http://192.168.5.1:35455/huya/11601968
+
+
+
 
 
 
