@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="哔哩哔哩",犬夜叉电影国语高清
+http://192.168.5.1:35455/bilibili/11224983?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",蜡笔小新电影国语高清
+http://192.168.5.1:35455/bilibili/22693306?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",海绵宝宝国语高清
+http://192.168.5.1:35455/bilibili/22535653?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",樱桃小丸子国语高清
 http://192.168.5.1:35455/bilibili/21614203?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",蜡笔小新国语高清
