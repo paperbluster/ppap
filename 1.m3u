@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="哔哩哔哩",国语日漫轮播
+http://192.168.5.1:35455/bilibili/21295520?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",经典日漫
-http://192.168.5.1:2010774/bilibili/7204293?line=first&quality=10000
+http://192.168.5.1:35455/bilibili/2010774?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",国语日漫
-http://192.168.5.1:4089143/bilibili/7204293?line=first&quality=10000
+http://192.168.5.1:35455/bilibili/4089143?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",哆啦A梦新番剧场版
 http://192.168.5.1:35455/bilibili/7204293?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",犬夜叉电影国语高清
