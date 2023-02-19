@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="哔哩哔哩",四大名著
+http://192.168.5.1:35455/bilibili/1402698?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",三国演义
 http://192.168.5.1:35455/bilibili/202427?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",刘德华周星驰林正英成龙李连杰影视
