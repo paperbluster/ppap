@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="哔哩哔哩",象棋研究者
+http://192.168.5.1:35455/bilibili/21912076?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",英雄联盟
+http://192.168.5.1:35455/bilibili/6?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",王者荣耀
+http://192.168.5.1:35455/bilibili/55?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",科幻搞笑好电影直播
+http://192.168.5.1:35455/bilibili/22314361?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",西游记
+http://192.168.5.1:35455/bilibili/2803563?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",【周星驰】喜剧 动作 僵尸 24H
+http://192.168.5.1:35455/bilibili/47917?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",文豪野犬1、2季
+http://192.168.5.1:35455/bilibili/6854526?line=first&quality=10000
+#EXTINF:-1 group-title="哔哩哔哩",中华小当家.中华一番国语
+http://192.168.5.1:35455/bilibili/23279336?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",中华小当家.中华一番国语
 http://192.168.5.1:35455/bilibili/26827368?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",猫和老鼠
