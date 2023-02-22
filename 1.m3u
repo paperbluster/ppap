@@ -49,6 +49,8 @@ http://192.168.5.1:35455/bilibili/10375360?line=first&quality=10000
 http://192.168.5.1:35455/bilibili/22683218?line=first&quality=10000
 #EXTINF:-1 group-title="哔哩哔哩",猫和老鼠
 http://192.168.5.1:35455/bilibili/2171135?line=first&quality=10000
+#EXTINF:-1 group-title="Youtube",新唐人亞太電視台
+http://192.168.5.1:35455/youtube/WIhgU_mc05A
 #EXTINF:-1 group-title="Youtube",美国之音中文网
 http://192.168.5.1:35455/youtube/8Ef3uceOAVk
 #EXTINF:-1 group-title="Youtube",JapaNews24 ～日本のニュースを24時間配信
