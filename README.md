@@ -1,2 +1,1 @@
-# HuaWeiDnsBlockList
-fuck  huawei  dns  query
+none
