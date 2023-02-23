@@ -1,14 +1,5 @@
 #hosts
-104.168.246.117	raspberrystudy.com
-104.168.246.117	www.raspberrystudy.com
-104.168.246.117	www.blog.raspberrystudy.com
-104.168.246.117	blog.raspberrystudy.com
-104.168.246.117 a.ckad8pjo5g8xxawuioa3d.com
-104.168.246.117 ckad8pjo5g8xxawuioa3d.com
-104.168.246.117 b.ckad8pjo5g8xxawuioa3d.com
-104.168.246.117 www.a.ckad8pjo5g8xxawuioa3d.com
-104.168.246.117 www.ckad8pjo5g8xxawuioa3d.com
-104.168.246.117 www.b.ckad8pjo5g8xxawuioa3d.com
+
 #必须开放的谷歌
 @@||beacons.gvt2.com^
 @@||beacons5.gvt3.com^
