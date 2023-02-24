@@ -1,5 +1,7 @@
 #hosts
-
+@@||bigairport.loan^
+@@||d.skk.moe^
+@@||api.ipify.org^
 #必须开放的谷歌
 @@||beacons.gvt2.com^
 @@||beacons5.gvt3.com^
