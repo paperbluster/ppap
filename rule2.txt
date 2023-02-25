@@ -1,4 +1,16 @@
 ||*.*.*.*^
+||github.com^$important
+||user-images.githubusercontent.com^$important
+||github-cloud.s3.amazonaws.com^$important
+||github.githubassets.com^$important
+||avatars.githubusercontent.com^$important
+||safebrowsing.googleapis.com^$important
+||beacons2.gvt2.com^$important
+||update.googleapis.com^$important
+||google.com^$important
+||beacons.gvt2.com^$important
+||raw.githubusercontent.com^$important
+||translate.googleapis.com^$important
 @@||10.*.*.*^
 @@||100.64.*.*^
 @@||127.*.*.*^
