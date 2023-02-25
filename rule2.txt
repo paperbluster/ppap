@@ -1,3 +1,4 @@
+#屏蔽外国
 ||console.bywa.art
 ||*.instagram.com
 ||t.me
