@@ -1,4 +1,4 @@
-#china
+#屏蔽大陆
 
 ||*.flv.huya.com
 ||*.baidu.com
