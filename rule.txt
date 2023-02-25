@@ -1,33 +1,178 @@
-#===================== 自定义规则 一 直连 =====================#
-##- DOMAIN-SUFFIX,google.com,Proxy 匹配域名后缀(交由Proxy代理服务器组)
-##- DOMAIN-KEYWORD,google,Proxy 匹配域名关键字(交由Proxy代理服务器组)
-##- DOMAIN,google.com,Proxy 匹配域名(交由Proxy代理服务器组)
-##- DOMAIN-SUFFIX,ad.com,REJECT 匹配域名后缀(拒绝)
-##- IP-CIDR,127.0.0.0/8,DIRECT 匹配数据目标IP(直连)
-##- SRC-IP-CIDR,192.168.1.201/32,DIRECT 匹配数据发起IP(直连)
-##- DST-PORT,80,DIRECT 匹配数据目标端口(直连)
-##- SRC-PORT,7777,DIRECT 匹配数据源端口(直连)
-payload:
-  - DOMAIN-KEYWORD,bilibili
-  - DST-PORT,5244
-  - DOMAIN-KEYWORD,bilivideo
-  - DOMAIN-KEYWORD,tv
-  - DOMAIN,baidu.live.cqccn.com
-  - DOMAIN-KEYWORD,alicdn
-  - DOMAIN-KEYWORD,qiyou
-  - DOMAIN-KEYWORD,iqiyi
-  - DOMAIN-KEYWORD,youku
-  - DOMAIN-KEYWORD,qq
-  - DOMAIN,www.zhipin.com
-  - DOMAIN,www.right.com.cn
-  - DOMAIN,pan.baidu.com
-  - DOMAIN-KEYWORD,aliyundrive.com
-  - DOMAIN-KEYWORD,aliyuncs
-  - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,baidu
-  - DOMAIN-KEYWORD,tencent
-  - DOMAIN-KEYWORD,tencent-cloud
-  - DOMAIN-KEYWORD,biliapi
-  - DOMAIN-KEYWORD,music.126
-  - DOMAIN-KEYWORD,music.163
-  
+#china
+dns.alidns.com
+*.flv.huya.com
+*.baidu.com
+*.msn.cn
++.msn.cn
+www.taobao.com
+*.*.baidu.com
+*.*.*.baidu.com
+*.youku.com
+*.*.youku.com
+*.soku.com
+*.huya.com
+ipv6.mirrors.ustc.edu.cn
+*.*.cn
+*.cn
+*.*.*.cn
+*.*.bilibili.com
+*.bilibili.com
+*.*.qq.com
+*.qq.com
+cdnws.api.huya.com
+*.va.huya.com
+*.ext.huya.com
+*.cdn.huya.com
+*.hwclouds-dns.com
+*.mediatrack.cn
+*.biliapi.net
+api.vc.bilibili.com
+qvb.qcloud.com
+*.qvb.qcloud.com
+www.chinanews.com.cn
+*.baidu.*
+*.gitee.com
+gitee.com
+pan.lanzouv.com
+*.aligames.com
+www.baishan.com
+*.cn.mm.bing.net
+whois.pconline.com.cn
+cqccn.com
+*.lanzoug.com
++.lanzoug.com
+*.cqccn.com
+*.ctcdn.cn
+*.chinanews.com
+*.alibaba.*
+*.alibaba-inc.*
+*.kuaishou.*
+cn.bing.com
+*.zohopublic.com.cn
+bytedance.live.cqccn.com
+*.kuaishouzt.*
+*.hdslb.com
+*.bilibili.*
+*.bytecdn.cn
+*.zhaopin.*
+*.aliyunpds.*
+*.aliyuncs.*
+*.alicdn.*
+*.*.*.*.cn
+*.alipay.com
+*.*.alipay.com
+*.*.*.alipay.com
+*.alipayobjects.com
+*.iqiyipic.com
+*.zhipin.com
+*.*.zhipin.com
+*.*.*.zhipin.com
+*.*.*.*.zhipin.com
+*.360.cn
+*.huorong.cn
+*.cn.pool.ntp.org
+*.360safe.com
+*.douyinstatic.*
+*.douyin.*
+douyinec.com
+*.open-douyin.*
+*.douyinvod.*
+*.douyinpic.*
+*.biliimg.*
+*.mcdn.bilivideo.cn
+*.bilivideo.*
+zohopublic.com.cn
+*.biliapi.*
+*.music.126.net
+*.music.163.com
+*.douyu.*
+*.douyucdn.*
+*.huya.*
+huyaimg.msstatic.com
+*.douyucdn2.*
+*.qiyou.*
+*.iqiyi.*
+*.iqiyipic.*
+*.youku.*
+*.aliyundrive.*
+*.aliyun.*
+*.tencent-cloud.*
+*.tencent.*
+*.*.*.qq.com
+*.music.migu.cn
+*.kugou.com
+*.zhihu.com
++.flv.huya.com
++.baidu.com
++.youku.com
++.soku.com
++.huya.com
++.cn
++.bilibili.com
++.qq.com
++.va.huya.com
++.ext.huya.com
++.cdn.huya.com
++.hwclouds-dns.com
++.mediatrack.cn
++.biliapi.net
++.qvb.qcloud.com
++.baidu.*
++.gitee.com
++.aligames.com
++.cn.mm.bing.net
++.cqccn.com
++.ctcdn.cn
++.chinanews.com
++.alibaba.*
++.alibaba-inc.*
++.kuaishou.*
++.zohopublic.com.cn
++.kuaishouzt.*
++.hdslb.com
++.bilibili.*
++.bytecdn.cn
++.zhaopin.*
++.aliyunpds.*
++.aliyuncs.*
++.alicdn.*
++.alipay.com
++.alipayobjects.com
++.iqiyipic.com
++.zhipin.com
++.360.cn
+www.bing.com
+*.jijifun.com
++.jijifun.com
++.+.cn
++.huorong.cn
++.cn.pool.ntp.org
++.360safe.com
++.douyinstatic.*
++.douyin.*
++.open-douyin.*
++.douyinvod.*
++.douyinpic.*
++.biliimg.*
++.mcdn.bilivideo.cn
++.bilivideo.*
++.biliapi.*
++.music.126.net
++.music.163.com
++.douyu.*
++.douyucdn.*
++.huya.*
++.douyucdn2.*
++.qiyou.*
++.iqiyi.*
++.iqiyipic.*
++.youku.*
++.aliyundrive.*
++.aliyun.*
++.tencent-cloud.*
++.tencent.*
++.music.migu.cn
++.kugou.com
++.csdn.*
++.csdnimg.*
++.zhihu.com
