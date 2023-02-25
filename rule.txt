@@ -1,6 +1,6 @@
 #屏蔽大陆^
 
-^||*.flv.huya.com^
+||*.flv.huya.com^
 ||*.baidu.com^
 ||*.msn.cn^
 ||+.msn.cn^
@@ -309,8 +309,7 @@
 @@||*.kemono.party^
 @@||kemono.party^
 @@||*.dlsite.*||@@^
-
-^@@||+.kemono.party^
+@@||+.kemono.party^
 @@||+.dlsite.*^
 @@||+.instagram.com^
 @@||+.telegram.org^
