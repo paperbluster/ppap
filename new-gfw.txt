@@ -12470,6 +12470,7 @@
 #域名分析持有者
 @@||otx.alienvault.com^
 #dns泄露检测
+@@||*.edns.ip-api.com^
 @@||*.dnsleak.*^
 @@||*.browserleaks.*^
 @@||*.astrill.*^
