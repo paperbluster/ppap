@@ -9,6 +9,7 @@
 ||*.igexin.*^
 ||*.windowsupdate.com^
 ||collector.github.com^
+||m.qpic.cn^
 @@||bigairport.loan^
 @@||d.skk.moe^
 @@||api.ipify.org^
