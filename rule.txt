@@ -10,7 +10,7 @@
 @@||*.ip138.com^
 @@||ip138.com^
 @@||ipinfo.io^
-@@||*>ipinfo.io^
+@@||*.ipinfo.io^
 @@||cdn.ipinfo.io^
 @@||api.ipify.org^
 @@||*.ip.sb^
