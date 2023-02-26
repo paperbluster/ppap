@@ -1,5 +1,7 @@
 ||*.flv.huya.com^
-
+@@||*.dnsleak.*^
+@@||*.browserleaks.*^
+@@||*.astrill.*^
 @@||ip.skk.moe^
 @@||d.skk.moe^
 @@||qqwry.api.skk.moe^
