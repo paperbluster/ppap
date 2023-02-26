@@ -8,6 +8,7 @@
 ||*.gepush.*^
 ||*.igexin.*^
 ||*.windowsupdate.com^
+||collector.github.com^
 @@||bigairport.loan^
 @@||d.skk.moe^
 @@||api.ipify.org^
