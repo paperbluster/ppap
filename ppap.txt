@@ -1,8 +1,9 @@
 #hosts
 @@||update.pan.baidu.com^$important
 ||yundong.qq.com^$important
-
 #####广告
+||https://ynuf.aliapp.org/savewb.json?
+||ynuf.aliapp.org?
 ||*.umeng.com^
 ||sdk.open.talk.gepush.*^
 ||sdk.open.talk.getui.*^
