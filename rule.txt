@@ -1,5 +1,6 @@
 #########外国配置-拒绝大陆链接
 ||*.flv.huya.com^
+@@||*.edns.ip-api.com^
 @@||*.dnsleak.*^
 @@||*.browserleaks.*^
 @@||*.astrill.*^
