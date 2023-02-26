@@ -2,6 +2,7 @@
 @@||update.pan.baidu.com^$important
 ||yundong.qq.com^$important
 #####广告
+||sdk.51.la^
 ||resolver.msg.xiaomi.net^
 ||https://ynuf.aliapp.org/savewb.json?
 ||ynuf.aliapp.org?
