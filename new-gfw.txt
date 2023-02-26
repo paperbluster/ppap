@@ -12769,3 +12769,7 @@
 @@||*.cn.mm.bing.net^
 @@||sapphire.bingviz.com^
 @@||gateway.bingviz.microsoftapp.net^
+
+@@||*.dnsleak.*^
+@@||*.browserleaks.*^
+@@||*.astrill.*^
