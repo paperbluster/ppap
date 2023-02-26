@@ -14,6 +14,7 @@
 @@||*.edns.ip-api.com^
 @@||ip-api.com^
 @@||ip.chinaz.com^
+@@||tool.chinaz.com^
 @@||*.*.ipip.net^
 @@||*.ipip.net^
 @@||*.skt.ipip.net^
