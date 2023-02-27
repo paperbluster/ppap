@@ -13720,3 +13720,9 @@
 @@||*.qhimg.com^
 @@||*.qhres.com^
 @@||*.zhimg.com^
+@@||cn.pool.ntp.org^
+@@||ipip.net^
+@@||*.cn.mm.bing.net^
+@@||skk.moe^
+@@||youku.com^
+@@||api.cognitive.microsofttranslator.com^
