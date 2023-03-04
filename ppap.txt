@@ -1,5 +1,9 @@
 #hosts
 @@||update.pan.baidu.com^$important
+@@||tk-prod-account-s3-bucket-photo.s3-accelerate.amazonaws.com^$important
+@@||tk-prod-account-s3-bucket-photo.s3.ap-northeast-1.amazonaws.com^$important
+||www.hw-area.com^$important
+
 ||yundong.qq.com^$important
 #####广告
 ||sdk.51.la^
