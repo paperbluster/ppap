@@ -67,3 +67,4 @@ production.cloudflare.docker.com
 mozilla.cloudflare-dns.com
 a.nel.cloudflare.com
 *.docker.io
+*ckad8pjo5g8xxawuioa3d.com
