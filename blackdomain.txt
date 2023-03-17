@@ -71,3 +71,10 @@ a.nel.cloudflare.com
 clients.hostwinds.com
 nyaa.si
 sukebei.nyaa.si
+bangumi.moe
+static.bangumi.moe
+*.reddit.com
+*.redditmedia.com
+twitter.com
+www.doprax.com
+eu-cxwhcsovzbk.doprax.com
