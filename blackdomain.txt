@@ -1,1 +1,13 @@
 chat.openai.com
+github.com
+user-images.githubusercontent.com
+github.githubassets.com
+avatars.githubusercontent.com
+github-cloud.s3.amazonaws.com
+raw.githubusercontent.com
+alive.github.com
+api.github.com
+user-images.githubusercontent.com
+*.github.io
+*.github.com
+*.githubusercontent.com
