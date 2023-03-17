@@ -69,3 +69,5 @@ a.nel.cloudflare.com
 *.docker.io
 *ckad8pjo5g8xxawuioa3d.com
 clients.hostwinds.com
+nyaa.si
+sukebei.nyaa.si
