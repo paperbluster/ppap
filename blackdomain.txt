@@ -78,3 +78,4 @@ static.bangumi.moe
 twitter.com
 www.doprax.com
 eu-cxwhcsovzbk.doprax.com
+www.bing.com/new
