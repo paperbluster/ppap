@@ -1,6 +1,9 @@
 chat.openai.com
 openai.com
 auth0.openai.com
+challenges.cloudflare.com
+platform.openai.com
+ai.com
 github.com
 github.githubassets.com
 avatars.githubusercontent.com
