@@ -1,3 +1,8 @@
+v2ex.com
+pixiv.com
+pixiv.net
+v2ex.net
+v2ex.cc
 chat.openai.com
 openai.com
 auth0.openai.com
