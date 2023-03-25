@@ -1,6 +1,7 @@
 flv.huya.com
 baidu.com
 msn.cn
+biliapi.net
 www.taobao.com
 youku.com
 bilivideo.cn
