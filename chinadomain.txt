@@ -3,6 +3,7 @@ baidu.com
 msn.cn
 www.taobao.com
 youku.com
+bilivideo.cn
 soku.com
 huya.com
 ipv6.mirrors.ustc.edu.cn
