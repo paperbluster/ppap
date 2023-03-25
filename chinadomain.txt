@@ -84,8 +84,4 @@ qq.com
 tencent-cloud.net
 tencent.com
 weixin.qq.com
-v2ex.com
-pixiv.com
-pixiv.net
-v2ex.net
-v2ex.cc
+
