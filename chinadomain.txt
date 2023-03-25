@@ -1,4 +1,5 @@
 flv.huya.com
+mcdn.bilivideo.cn
 baidu.com
 msn.cn
 www.taobao.com
