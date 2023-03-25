@@ -5,6 +5,8 @@ biliapi.net
 www.taobao.com
 youku.com
 bilivideo.cn
+bilivideo
+bilivideo.com
 soku.com
 huya.com
 ipv6.mirrors.ustc.edu.cn
