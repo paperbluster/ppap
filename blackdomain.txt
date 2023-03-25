@@ -30,6 +30,7 @@ x.xmoon.club
 kemono.party
 bbs.imoutolove.me
 east-plus.net
+snow-plus.net
 sketch.pixiv.net
 pixiv.pximg.net
 *.pixiv.net
