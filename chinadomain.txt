@@ -1,5 +1,4 @@
 flv.huya.com
-mcdn.bilivideo.cn
 baidu.com
 msn.cn
 www.taobao.com
@@ -86,4 +85,4 @@ qq.com
 tencent-cloud.net
 tencent.com
 weixin.qq.com
-
+zhipin.com
