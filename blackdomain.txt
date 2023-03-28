@@ -1,5 +1,8 @@
 google.com
 registry-1.docker.io
+production.cloudflare.docker.com
+auth.docker.io
+dockerproxy.com
 googleapis.com
 googlevideo.com
 google.com.sg
