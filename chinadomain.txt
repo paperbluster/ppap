@@ -1,5 +1,7 @@
 flv.huya.com
 baidu.com
+mdap.alipay.com
+inside-gateway.alipay.com
 msn.cn
 message.bilibili.com
 api.vc.bilibili.com
