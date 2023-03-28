@@ -1,4 +1,5 @@
 google.com
+registry-1.docker.io
 googleapis.com
 googlevideo.com
 google.com.sg
