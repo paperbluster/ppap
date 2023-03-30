@@ -12,3 +12,13 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8$æ±è¥¿�
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视"  tvg-name="CCTV13"
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8$æ±è¥¿å®æ¥3.5M
+#EXTINF:-1 tvg-name="éåº¸ä½åçµå½±[278]"
+https://epg.112114.xyz/huya/11352897
+#EXTINF:-1 tvg-name="éåè±é[144]"
+https://epg.112114.xyz/huya/11352899
+#EXTINF:-1 tvg-name="çµjuæé­ç³»å[196]"
+https://epg.112114.xyz/huya/11352903
+#EXTINF:-1 tvg-name="æ±ééé¾[89]"
+https://epg.112114.xyz/huya/11352905
+#EXTINF:-1 tvg-name="å¯å°ååé[247]"
+https://epg.112114.xyz/huya/11352906
