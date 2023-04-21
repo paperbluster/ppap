@@ -119,7 +119,8 @@
 ||miui-fxcse.avlyun.com^
 ||sdkconf.avlyun.com^
 ||miav-cse.avlyun.com^
-#小米跟踪API
+#小米跟踪API-极度异常超大量上报数据
+||api.miwifi.com^
 #应用包扫描API
 ||api.installer.xiaomi.com^
 ||tmfsdk.m.qq.com^
