@@ -264,3 +264,4 @@
 ||metric.huya.com^
 # 屏蔽高通从设备硬件层面上报个人隐私，包括卫星位置
 ||izatcloud.net^
+||*.izatcloud.net^
