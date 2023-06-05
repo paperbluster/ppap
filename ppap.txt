@@ -265,3 +265,14 @@
 # 屏蔽高通从设备硬件层面上报个人隐私，包括卫星位置
 ||izatcloud.net^
 ||*.izatcloud.net^
+# 放行抖音
+@@||*.douyinvod.com^$important
+@@||*.douyincdn.com^$important
+@@||*.byteimg.com^$important
+@@||*.douyucdn.cn^$important
+@@||*.douyucdn2.cn^$important
+@@||*.hdslb.com^$important
+@@||epg.pw^$important
+@@||*.bilivideo.com^$important
+@@||*.flv.huya.com^$important
+@@||*.livehwc3.cn^$important
