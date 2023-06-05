@@ -277,3 +277,4 @@
 @@||*.flv.huya.com^
 @@||*.livehwc3.cn^
 @@||*.bilivideo.com^
+@@||*.livehwc3.cn^
