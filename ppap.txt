@@ -266,13 +266,14 @@
 ||izatcloud.net^
 ||*.izatcloud.net^
 # 放行抖音
-@@||*.douyinvod.com^$important
-@@||*.douyincdn.com^$important
-@@||*.byteimg.com^$important
-@@||*.douyucdn.cn^$important
-@@||*.douyucdn2.cn^$important
-@@||*.hdslb.com^$important
-@@||epg.pw^$important
-@@||*.bilivideo.com^$important
-@@||*.flv.huya.com^$important
-@@||*.livehwc3.cn^$important
+@@||*.douyinvod.com^
+@@||*.douyincdn.com^
+@@||*.byteimg.com^
+@@||*.douyucdn.cn^
+@@||*.douyucdn2.cn^
+@@||*.hdslb.com^
+@@||epg.pw^
+@@||*.bilivideo.com^
+@@||*.flv.huya.com^
+@@||*.livehwc3.cn^
+@@||*.bilivideo.com^
