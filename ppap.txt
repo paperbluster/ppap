@@ -121,6 +121,21 @@
 ||miav-cse.avlyun.com^
 #小米跟踪API-极度异常超大量上报数据
 ||api.miwifi.com^
+#屏蔽后无法矫正流量，但是也用来下载白名单
+#0.0.0.0 api.sec.miui.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 xlmc.sec.miui.com
+#禁用后将无法云扫描病毒
+127.0.0.1 etl-xlmc-ssl.sandai.net
+127.0.0.1 cn.app.chat.xiaomi.net
+#疑似云盘，自行决定
+#127.0.0.1 pdc.micloud.xiaomi.net
+127.0.0.1 a.hl.mi.com
+#禁用后可能会导致小米浏览器无法下载APK，因为有垃圾推广安装
+127.0.0.1 idm.api.io.mi.com
+127.0.0.1 api.jr.mi.com
+127.0.0.1 ssl-cdn.static.browser.mi-img.com
+127.0.0.1 flash.sec.miui.com
 #应用包扫描API
 ||api.installer.xiaomi.com^
 ||tmfsdk.m.qq.com^
