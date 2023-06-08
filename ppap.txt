@@ -293,3 +293,8 @@
 @@||*.livehwc3.cn^
 @@||*.bilivideo.com^
 @@||*.livehwc3.cn^
+# urlblock
+||t1.daumcdn.net^
+||lf1-cdn-tos.bytegoofy.com^
+||360jc.ffaz508jj.fit^
+||msch.f.360.cn^
