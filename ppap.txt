@@ -298,3 +298,5 @@
 ||lf1-cdn-tos.bytegoofy.com^
 ||360jc.ffaz508jj.fit^
 ||msch.f.360.cn^
+# 意义不明的爬虫？
+||*.jomoxc.com^
