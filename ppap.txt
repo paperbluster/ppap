@@ -21,7 +21,7 @@
 ||*.windowsupdate.com^
 ||collector.github.com^
 ||m.qpic.cn^
-@@||bigairport.loan^
+@@||bigairport.*^
 @@||d.skk.moe^
 @@||api.ipify.org^
 #必须开放的谷歌
