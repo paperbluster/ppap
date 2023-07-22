@@ -299,3 +299,8 @@
 # 意义不明的爬虫？
 ||*.jomoxc.com^
 ||*.google-analytics.com^$important^
+
+# tiktok
+@@||*.tiktokv.com^$important
+@@||*.byteoversea.com^$important
+@@||*.tiktok.com^$important
