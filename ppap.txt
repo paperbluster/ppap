@@ -304,3 +304,4 @@
 @@||*.tiktokv.com^$important
 @@||*.byteoversea.com^$important
 @@||*.tiktok.com^$important
+@@||*.onelink.me^$important
