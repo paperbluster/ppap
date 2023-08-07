@@ -16,6 +16,7 @@
 ||apm.yun.hihonor.*^$important
 ||store.hispace.hicloud.*^$important
 ||appsec.hicloud.*^$important
+||trs-drcn.push.hihonorcloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
