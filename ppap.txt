@@ -13,6 +13,7 @@
 ||configserver-drcn.platform.hihonorcloud.*^$important
 ||seccloud.ipd.hihonor.*^$important
 ||update.platform.hihonorcloud.*^$important
+||apm.yun.hihonor.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
