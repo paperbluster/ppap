@@ -1,4 +1,4 @@
-#华为文件同步与备份,系统更新,网盘屏蔽
+#华为文件同步与备份,系统更新,网盘,软件检查屏蔽
 ||grs.dbankcloud.*^$important
 ||grs.hihonorcloud.*^$important
 ||cloudres-dra.dbankcdn.com^$important
@@ -15,6 +15,7 @@
 ||update.platform.hihonorcloud.*^$important
 ||apm.yun.hihonor.*^$important
 ||store.hispace.hicloud.*^$important
+||appsec.hicloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
