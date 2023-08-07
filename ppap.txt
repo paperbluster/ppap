@@ -20,6 +20,7 @@
 ||pkginstaller-drcn.hispace.dbankcloud.*^$important
 ||openlocation-drcn.platform.dbankcloud.*^$important
 ||configserver-drcn.platform.hihonorcloud.*^$important
+||metrics.dt.hihonorcloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
