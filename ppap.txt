@@ -131,7 +131,8 @@
 @@||*.flv.huya.com^
 @@||*.livehwc3.cn^
 # 意义不明的爬虫？
-
+# 知乎爬虫
+||zhihu-web-analytics.zhihu.com^
 # tiktok
 @@||*.tiktokv.com^$important
 @@||*.byteoversea.com^$important
