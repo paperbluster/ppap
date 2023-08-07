@@ -9,6 +9,10 @@
 ||configdownload-dra.dbankcdn.*^$important
 ||configserver.hicloud.*^$important
 ||connectivitycheck.platform.hicloud.*^$important
+||metrics-drcn.dt.hihonorcloud.*^$important
+||configserver-drcn.platform.hihonorcloud.*^$important
+||seccloud.ipd.hihonor.*^$important
+||update.platform.hihonorcloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
