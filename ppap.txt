@@ -5,6 +5,7 @@
 ||openapi5.dbank.com^$important
 ||appoptimize-dra.dbankcdn.com.home^$important
 ||appdl2.dbankcdn.com^$important
+||configdownload.dbankcdn.cn^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
