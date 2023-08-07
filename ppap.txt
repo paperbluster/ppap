@@ -8,6 +8,7 @@
 ||configdownload.dbankcdn.*^$important
 ||configdownload-dra.dbankcdn.*^$important
 ||configserver.hicloud.*^$important
+||connectivitycheck.platform.hicloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
