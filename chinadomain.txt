@@ -1,5 +1,6 @@
 flv.huya.com
 baidu.com
+baidupcs.com
 mdap.alipay.com
 inside-gateway.alipay.com
 msn.cn
