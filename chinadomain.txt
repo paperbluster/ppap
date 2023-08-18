@@ -2,6 +2,8 @@ flv.huya.com
 baidu.com
 baidupcs.com
 miguvideo.com
+live.aikan.miguvideo.com
+vsc.aikan.miguvideo.com
 mdap.alipay.com
 inside-gateway.alipay.com
 msn.cn
@@ -24,7 +26,6 @@ bilivideo
 soku.com
 huya.com
 ipv6.mirrors.ustc.edu.cn
-cn
 qq.com
 cdnws.api.huya.com
 va.huya.com
