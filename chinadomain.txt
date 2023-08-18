@@ -1,5 +1,6 @@
 flv.huya.com
 baidu.com
+qq.com
 baidupcs.com
 miguvideo.com
 live.aikan.miguvideo.com
