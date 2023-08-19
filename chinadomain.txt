@@ -1,3 +1,8 @@
+apm-and.zhipin.com
+api-and.zhipin.com
+api5.zhipin.com
+logapi-and.zhipin.com
+img.bosszhipin.com
 flv.huya.com
 isee.weishi.qq.com
 dldir1v6.qq.com
