@@ -27,6 +27,7 @@
 ||metrics5.dt.dbankcloud.*^$important
 ||logservice.hicloud.*^$important
 ||appdl-drcn.dbankcdn.*^$important
+||connectivitycheck.platform.hihonorcloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
