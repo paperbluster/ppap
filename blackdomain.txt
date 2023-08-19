@@ -4,6 +4,7 @@ lh3.google.com
 lh4.googleusercontent.com
 lh6.googleusercontent.com
 lh3.googleusercontent.com
+lh5.googleusercontent.com
 apis.google.com
 www.googletagmanager.com
 play.google.com
