@@ -2,6 +2,11 @@ google.com
 clients2.google.com
 news.google.com
 lh3.google.com
+aa.google.com
+android.googleapis.com
+addons-pa.clients6.google.com
+jnn-pa.googleapis.com
+contacts.google.com
 lh4.googleusercontent.com
 lh6.googleusercontent.com
 lh3.googleusercontent.com
@@ -131,3 +136,4 @@ www.doprax.com
 eu-cxwhcsovzbk.doprax.com
 www.bing.com
 sexinsex.net
+support.google.com
