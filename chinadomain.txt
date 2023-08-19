@@ -137,6 +137,10 @@ d.meituan.net
 dianping.com
 amap.com
 51jobcdn.com
+img01.51jobcdn.com
+im.51job.com
+img04.51jobcdn.com
+cupid.51job.com
 51job.com
 51cto.com
 51ctocdn.cn
