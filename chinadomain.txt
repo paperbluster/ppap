@@ -2,6 +2,13 @@ flv.huya.com
 i0.hdslb.com
 i1.hdslb.com
 i2.hdslb.com
+vdn1.vzuu.com
+vdn6.vzuu.com
+vdn5.vzuu.com
+vdn.vzuu.com
+vdn5-1.vzuu.com
+vdn6-1.vzuu.com
+vdn3.vzuu.com
 datahub.zhihu.com
 apm.zhihu.com
 aidatatest.zhihu.com
