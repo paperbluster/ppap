@@ -26,6 +26,7 @@
 ||metrics1.data.hicloud.*^$important
 ||metrics5.dt.dbankcloud.*^$important
 ||logservice.hicloud.*^$important
+||appdl-drcn.dbankcdn.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
