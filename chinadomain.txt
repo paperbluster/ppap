@@ -2,6 +2,7 @@ flv.huya.com
 i0.hdslb.com
 i1.hdslb.com
 i2.hdslb.com
+mdn.alipayobjects.com
 vdn1.vzuu.com
 vdn6.vzuu.com
 vdn5.vzuu.com
