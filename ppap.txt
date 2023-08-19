@@ -28,6 +28,7 @@
 ||logservice.hicloud.*^$important
 ||appdl-drcn.dbankcdn.*^$important
 ||connectivitycheck.platform.hihonorcloud.*^$important
+||geo-drcn.magicui.hihonorcloud.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
