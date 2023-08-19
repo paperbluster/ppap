@@ -1,5 +1,8 @@
 flv.huya.com
-baidu.com
+www.baidu.com
+bilivideo.com
+bilivideo.cn
+www.bilibili.com
 qq.com
 baidupcs.com
 miguvideo.com
@@ -17,13 +20,10 @@ hw-v2-web-player-tracker.biliapi.net
 api.bilibili.com
 data.bilibili.com
 mcdn.bilivideo.cn
-bilivideo.com
 bilibili.com
 biliapi.net
 www.taobao.com
 youku.com
-bilivideo.cn
-bilivideo
 soku.com
 huya.com
 ipv6.mirrors.ustc.edu.cn
