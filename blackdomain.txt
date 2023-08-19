@@ -1,4 +1,5 @@
 google.com
+clients2.google.com
 news.google.com
 lh3.google.com
 lh4.googleusercontent.com
