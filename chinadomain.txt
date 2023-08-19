@@ -16,6 +16,8 @@ szshort.weixin.qq.com
 szquic.weixin.qq.com
 dns.weixin.qq.com.cn
 configsvr.msf.3g.qq.com
+apps.bdimg.com
+himg.bdimg.com
 bkvv.video.qq.com
 restlbs.map.qq.com
 info.zb.qq.com
