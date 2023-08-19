@@ -1,6 +1,10 @@
 apm-and.zhipin.com
 httpdns.alicdn.com
 huaweicloud.com
+mlvbdc.live.qcloud.com
+login.im.qcloud.com
+license.vod2.myqcloud.com
+appapi.51job.com
 1692425742224-o2es3kce1og.dns-detect.alicdn.com
 1692425740333-60pvy2z8a37.dns-detect.alicdn.com
 lf1-cdn-tos.bytegoofy.com
