@@ -3,6 +3,7 @@ clients2.google.com
 news.google.com
 lh3.google.com
 aa.google.com
+ssl.google-analytics.com
 android.googleapis.com
 addons-pa.clients6.google.com
 jnn-pa.googleapis.com
