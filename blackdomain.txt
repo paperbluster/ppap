@@ -1,4 +1,8 @@
 google.com
+lh3.googleusercontent.com
+clientservices.googleapis.com
+fonts.googleapis.com
+clients.google.com
 accounts.youtube.com
 githubassets.com
 www.gstatic.com
