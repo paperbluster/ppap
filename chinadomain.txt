@@ -2,6 +2,16 @@ flv.huya.com
 isee.weishi.qq.com
 dldir1v6.qq.com
 pay.weixin.qq.com
+wxapp.tc.qq.com
+51.wxapp.tc.qq.com
+szshort.weixin.qq.com
+szquic.weixin.qq.com
+dns.weixin.qq.com.cn
+configsvr.msf.3g.qq.com
+bkvv.video.qq.com
+restlbs.map.qq.com
+info.zb.qq.com
+szminorshort.weixin.qq.com
 ugg.weishi.qq.com
 szextshort.weixin.qq.com
 cloud.tencent.com
@@ -137,3 +147,4 @@ tencent-cloud.net
 tencent.com
 weixin.qq.com
 zhipin.com
+www.qq.com
