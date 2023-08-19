@@ -1,4 +1,9 @@
 flv.huya.com
+isee.weishi.qq.com
+dldir1v6.qq.com
+pay.weixin.qq.com
+ugg.weishi.qq.com
+szextshort.weixin.qq.com
 cloud.tencent.com
 apd-pcdnwxstat.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
