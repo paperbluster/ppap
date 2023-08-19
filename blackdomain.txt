@@ -1,4 +1,5 @@
 google.com
+accounts.google.com
 lh3.googleusercontent.com
 clientservices.googleapis.com
 fonts.googleapis.com
