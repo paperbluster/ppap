@@ -1,4 +1,8 @@
 flv.huya.com
+cloud.tencent.com
+apd-pcdnwxstat.teg.tencent-cloud.net
+apd-pcdnwxnat.teg.tencent-cloud.net
+apd-pcdnwxlogin.teg.tencent-cloud.net
 i0.hdslb.com
 i1.hdslb.com
 gw.alipayobjects.com
