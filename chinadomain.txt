@@ -2,6 +2,10 @@ apm-and.zhipin.com
 httpdns.alicdn.com
 1692425742224-o2es3kce1og.dns-detect.alicdn.com
 1692425740333-60pvy2z8a37.dns-detect.alicdn.com
+lf1-cdn-tos.bytegoofy.com
+img01.51jobcdn.com
+httpdns.c.cdnhwc2.com
+h5hosting.dbankcdn.com
 api-and.zhipin.com
 api5.zhipin.com
 logapi-and.zhipin.com
