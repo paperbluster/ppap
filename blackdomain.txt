@@ -1,6 +1,7 @@
 google.com
 accounts.youtube.com
 githubassets.com
+www.gstatic.com
 gvt3.com
 gvt2.com
 beacons4.gvt2.com
