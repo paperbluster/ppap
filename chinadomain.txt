@@ -3,6 +3,7 @@ i0.hdslb.com
 i1.hdslb.com
 i2.hdslb.com
 www.baidu.com
+gitee.io
 map.qq.com
 video.qq.com
 bilivideo.com
