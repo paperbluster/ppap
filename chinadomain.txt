@@ -2,6 +2,9 @@ flv.huya.com
 i0.hdslb.com
 i1.hdslb.com
 gw.alipayobjects.com
+update.pan.baidu.com
+pcs.baidu.com
+pan.baidu.com
 i2.hdslb.com
 mdn.alipayobjects.com
 vdn1.vzuu.com
