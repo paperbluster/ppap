@@ -111,6 +111,7 @@ cn.pool.ntp.org
 360safe.com
 douyinec.com
 music.126.net
+s1.music.126.net
 music.163.com
 huyaimg.msstatic.com
 music.migu.cn
