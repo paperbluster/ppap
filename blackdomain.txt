@@ -1,4 +1,10 @@
 google.com
+apis.google.com
+www.googletagmanager.com
+play.google.com
+translate.google.com
+lh6.googleusercontent.com
+maps.googleapis.com
 accounts.google.com
 lh3.googleusercontent.com
 clientservices.googleapis.com
