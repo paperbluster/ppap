@@ -1,4 +1,7 @@
 flv.huya.com
+i0.hdslb.com
+i1.hdslb.com
+i2.hdslb.com
 www.baidu.com
 map.qq.com
 video.qq.com
