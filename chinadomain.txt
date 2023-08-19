@@ -1,9 +1,11 @@
 flv.huya.com
 www.baidu.com
+map.qq.com
 bilivideo.com
 bilivideo.cn
 www.bilibili.com
 qq.com
+weixin.qq.com
 baidupcs.com
 miguvideo.com
 live.aikan.miguvideo.com
