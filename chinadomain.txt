@@ -2,6 +2,16 @@ flv.huya.com
 i0.hdslb.com
 i1.hdslb.com
 i2.hdslb.com
+datahub.zhihu.com
+apm.zhihu.com
+aidatatest.zhihu.com
+zhuanlan.zhihu.com
+api.zhihu.com
+lens.zhihu.com
+static.zhihu.com
+appcloud2.in.zhihu.com
+m-cloud.zhihu.com
+mqtt-internal-public.zhihu.com
 www.baidu.com
 gitee.io
 map.qq.com
