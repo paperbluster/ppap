@@ -1,4 +1,6 @@
 google.com
+accounts.youtube.com
+githubassets.com
 gvt3.com
 gvt2.com
 registry-1.docker.io
