@@ -1,5 +1,12 @@
 apm-and.zhipin.com
 httpdns.alicdn.com
+share.weiyun.com
+njc-download.weiyun.com
+user.weiyun.com
+ssl.ptlogin2.weiyun.com
+ssl.xui.ptlogin2.weiyun.com
+localhost.ptlogin2.weiyun.com
+img.weiyun.com
 huaweicloud.com
 mlvbdc.live.qcloud.com
 login.im.qcloud.com
