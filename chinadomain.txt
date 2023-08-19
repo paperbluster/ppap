@@ -156,3 +156,5 @@ tencent.com
 weixin.qq.com
 zhipin.com
 www.qq.com
+sdkaw.qiyou.cn
+apifast.qiyou.cn
