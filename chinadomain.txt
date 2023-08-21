@@ -1,6 +1,7 @@
 apm-and.zhipin.com
 httpdns.alicdn.com
 share.weiyun.com
+www.123pan.com
 huaweicloud.com
 mlvbdc.live.qcloud.com
 license.vod2.myqcloud.com
