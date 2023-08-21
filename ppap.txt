@@ -33,6 +33,8 @@
 ||appdlc-drcn.hispace.dbankcloud.*^$important
 ||connect-drcn.dbankcloud.*^$important
 ||dnkeeper.platform.dbankcloud.*^$important
+||appdl-2-drcn.dbankcdn.*^$important
+||appdl6-drcn.dbankcdn.*^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
