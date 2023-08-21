@@ -1,4 +1,4 @@
-#华为文件同步与备份,系统更新,网盘,软件检查，定位,防火墙,应用市场屏蔽
+#华为文件同步与备份,系统更新,网盘,软件检查，定位,防火墙,应用市场,自动运行的开发者模式后台屏蔽
 ||grs.dbankcloud.*^$important
 ||*.push.dbankcloud.*^$important
 ||grs.hihonorcloud.*^$important
@@ -35,6 +35,7 @@
 ||dnkeeper.platform.dbankcloud.*^$important
 ||appdl-2-drcn.dbankcdn.*^$important
 ||appdl6-drcn.dbankcdn.*^$important
+||developer.hihonor.com^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
