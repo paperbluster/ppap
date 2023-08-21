@@ -36,6 +36,7 @@
 ||appdl-2-drcn.dbankcdn.*^$important
 ||appdl6-drcn.dbankcdn.*^$important
 ||developer.hihonor.com^$important
+||cloudrom-global.magicui.hihonorcloud.com^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
