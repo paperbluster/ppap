@@ -161,6 +161,8 @@
 ||oneupload.bonree.com^$important
 # 知乎爬虫
 ||zhihu-web-analytics.zhihu.com^
+# 奇虎360爬虫
+||cn.aiclean.50union.com^
 # tiktok
 @@||*.tiktokv.com^$important
 @@||*.byteoversea.com^$important
