@@ -39,6 +39,11 @@
 ||cloudrom-global.magicui.hihonorcloud.com^$important
 # 流氓uc，没有安装它的产品还能中招
 ||applog.uc.cn^$important
+# 国产手机系统内置个推(强制广告推送+强制隐私获取)
+||sdk-open-phone.getui.com^
+||cdn-sdk-opt.getui.com^
+||c-hzgt2.getui.com^
+||sdk.conf.getui.com^
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
