@@ -44,7 +44,7 @@
 ||cdn-sdk-opt.getui.com^
 ||c-hzgt2.getui.com^
 ||sdk.conf.getui.com^
-#阿里巴巴广告追踪投放爬虫
+#阿里巴巴广告追踪投放爬虫(超高频率)
 ||s-gm.mmstat.com^
 #hosts
 @@||update.pan.baidu.com^$important
