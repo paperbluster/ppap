@@ -37,6 +37,8 @@
 ||appdl6-drcn.dbankcdn.*^$important
 ||developer.hihonor.com^$important
 ||cloudrom-global.magicui.hihonorcloud.com^$important
+# 流氓uc，没有安装它的产品还能中招
+||applog.uc.cn^$important
 #hosts
 @@||update.pan.baidu.com^$important
 #####广告
