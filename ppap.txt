@@ -48,6 +48,9 @@
 ||s-gm.mmstat.com^
 ||h-adashx.ut.taobao.com^
 #hosts
+# 微软网络连接测试，通过请求判断windows系统是否正常联网
+||dns.msftncsi.com^
+||ipv6.msftconnecttest.com^
 @@||update.pan.baidu.com^$important
 #####广告
 ||beacons5.gvt2.com^
