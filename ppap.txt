@@ -53,6 +53,8 @@
 ||ipv6.msftconnecttest.com^
 # 微软更新相关
 ||geo.prod.do.dsp.mp.microsoft.com^
+# 英伟达
+||lightstep.kaizen.nvidia.com^$important
 @@||update.pan.baidu.com^$important
 #####广告
 ||beacons5.gvt2.com^
