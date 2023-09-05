@@ -145,3 +145,4 @@ youku.com
 jd.com
 360buyimg.com
 ctrip.com
+xiaohongshu.com
