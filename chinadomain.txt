@@ -139,3 +139,9 @@ bytetcc.com
 mihoyo.com
 huawei.com
 bcebos.com
+iqiyi.com
+iqiyipic.com
+youku.com
+jd.com
+360buyimg.com
+ctrip.com
