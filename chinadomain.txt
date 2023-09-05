@@ -126,3 +126,16 @@ meituan.net
 hdslb.com
 126.net
 com.cn
+douyin.com
+douyinpic.com
+bytetos.com
+zijieapi.com
+bytescm.com
+bytedance.com
+bytednsdoc.com
+yhgfb-cn-static.com
+byted-static.com
+bytetcc.com
+mihoyo.com
+huawei.com
+bcebos.com
