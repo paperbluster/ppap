@@ -156,3 +156,5 @@ ooklaserver.net
 mbspeed.net
 speedtest.net
 pythonhosted.org
+hklive.tv
+hkdtmb.com
