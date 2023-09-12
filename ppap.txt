@@ -39,6 +39,7 @@
 ||cloudrom-global.magicui.hihonorcloud.*^$important
 ||connectivitycheck.cbg-app.huawei.*^$important
 ||events-drcn.op.dbankcloud.*^$important
+||cota-global.magicui.hihonorcloud.*^$important
 # 流氓uc，没有安装它的产品还能中招
 ||applog.uc.cn^$important
 # 国产手机系统内置个推(强制广告推送+强制隐私获取)
