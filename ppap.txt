@@ -40,6 +40,28 @@
 ||connectivitycheck.cbg-app.huawei.*^$important
 ||events-drcn.op.dbankcloud.*^$important
 ||cota-global.magicui.hihonorcloud.*^$important
+# 拒绝使用各平台自己的https dns请求(有公共dns了为毛还要用你家私人dns进行二次路由,我是连不上还是咋地)
+||httpdns.alicdn.com^$important
+||httpdns.bilivideo.com^$important
+||httpdns.c.cdnhwc2.com^$important
+||httpdns.kwd.inkuai.com^$important
+||httpdns-sdk.n.netease.com^$important
+||httpdns-api.aliyuncs.com^$important
+||httpdns-sc.aliyuncs.com^$important
+||httpsdns.baidu.com^$important
+||httpdns.baidu.com^$important
+||httpdns.baidubce.com^$important
+||kuaishou.httpdns.pro^$important
+||httpdns.meituan.com^$important
+||httpdns.n.netease.com^$important
+||httpdns.music.163.com^$important
+||music.httpdns.c.163.com^$important
+||lofter.httpdns.c.163.com^$important
+||httpdns.push.oppomobile.com^$important
+||httpdns.volcengineapi.com^$important
+||dns.weibo.cn^$important
+||dns.weixin.qq.com^$important
+||dns.weixin.qq.com.cn^$important
 # 流氓uc，没有安装它的产品还能中招
 ||applog.uc.cn^$important
 # 国产手机系统内置个推(强制广告推送+强制隐私获取)
