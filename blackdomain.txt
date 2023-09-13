@@ -1,6 +1,12 @@
 google.com
 telegra.ph
 legra.ph
+comments.app
+tx.me
+tdesktop.com
+telegram.me
+graph.org
+telesco.pe
 browserleaks.com
 browserleaks.org
 bytedapm.com
