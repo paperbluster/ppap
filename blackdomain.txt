@@ -1,4 +1,5 @@
 google.com
+telegra.ph
 browserleaks.com
 browserleaks.org
 bytedapm.com
