@@ -202,8 +202,9 @@
 @@||*.bilivideo.com^
 @@||*.flv.huya.com^
 @@||*.livehwc3.cn^
-# 意义不明的爬虫？
+# 意义不明、无法追溯来源的东西
 ||oneupload.bonree.com^$important
+||text.forge.com^$important
 # 知乎爬虫
 ||zhihu-web-analytics.zhihu.com^
 # 奇虎360爬虫
