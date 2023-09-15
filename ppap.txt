@@ -214,3 +214,7 @@
 @@||*.byteoversea.com^$important
 @@||*.tiktok.com^$important
 @@||*.onelink.me^$important
+#优酷隐私窃取
+||pcapp-data-collect.youku.com^$important
+#极度疯狂的阿里巴巴追踪器，和ddos没区别
+||s-gm.mmstat.com^$important
