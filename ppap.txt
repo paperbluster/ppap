@@ -150,7 +150,7 @@
 ||haoma.baidu.com^
 ||51downapp.cn^
 #下面是友盟广告
-||umengcloud.com^
+||*.umengcloud.com^
 ||umeng.co^
 #意义不明的东西
 ||activity.windows.com^
