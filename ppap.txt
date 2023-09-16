@@ -151,7 +151,8 @@
 ||51downapp.cn^
 #下面是友盟广告
 ||*.umengcloud.com^
-||umeng.co^
+||*.umeng.co^
+||*.umeng.com^
 #意义不明的东西
 ||activity.windows.com^
 ||data.sec.miui.com^
