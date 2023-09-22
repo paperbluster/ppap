@@ -147,8 +147,9 @@
 ||dnsrr9.wym*.com^
 ||dnsxyc.wym*.com^
 ||alidns.aliyuncs.com^
-# 流氓uc，没有安装它的产品还能中招
+# 没有使用其任何产品却意外发现在偷跑
 ||applog.uc.cn^$important
+||yunxindns.com^$important
 # 国产手机系统内置个推(强制广告推送+强制隐私获取)
 ||sdk-open-phone.getui.com^
 ||cdn-sdk-opt.getui.com^
