@@ -42,6 +42,7 @@
 ||cota-global.magicui.hihonorcloud.*^$important
 ||cloudsafe.hicloud.com^$important
 ||conf-drcn.cloud.dbankcloud.*^$important
+||*.xtracloud.net^$important
 # 拒绝使用各平台自己的https dns请求(有公共dns了为毛还要用你家私人dns进行二次路由,我是不用这玩意连不上你家服务还是咋地)
 ||httpdns.alicdn.com^$important
 ||httpdns.bilivideo.com^$important
