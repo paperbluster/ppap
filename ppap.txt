@@ -149,6 +149,8 @@
 ||dnsrr9.wym*.com^
 ||dnsxyc.wym*.com^
 ||alidns.aliyuncs.com^
+# windows更新屏蔽(请求过于频繁直接拉黑)
+||*.update.microsoft.com^$important
 # 没有使用其任何产品却意外发现在偷跑
 ||applog.uc.cn^$important
 ||yunxindns.com^$important
