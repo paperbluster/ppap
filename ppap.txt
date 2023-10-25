@@ -328,3 +328,5 @@
 ||track.easeus.com^
 ||track.mituo.cn^
 ||cc-api-data.adobe.io^
+#reCAPTCHA验证需要
+@@||www.googletagmanager.com^$important
