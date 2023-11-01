@@ -333,3 +333,4 @@
 #移动光猫反炸
 ||bbums.org^$important
 ||bbums.org.cn^$important
+||map.bbums.cn^$important
