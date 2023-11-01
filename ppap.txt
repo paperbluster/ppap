@@ -330,3 +330,6 @@
 ||cc-api-data.adobe.io^
 #reCAPTCHA验证需要
 @@||www.googletagmanager.com^$important
+#移动光猫反炸
+||bbums.org^$important
+||bbums.org.cn^$important
