@@ -334,3 +334,24 @@
 ||bbums.org^$important
 ||bbums.org.cn^$important
 ||map.bbums.cn^$important
+# 大数据屏蔽
+||apd-pcdnwxstat.teg.tencent-cloud.net^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnvodstat.teg.tencent-cloud.net^
+||apd-vodp2plogin.teg.tencent-cloud.net^
+||gd.xinhuanet.com^$important
+||ad7.com^$important
+||nequal.com^$important
+||n1q.cn^$important
+||nequal.cn^$important
+||chance-ad.com^$important
+||zhihuiyun.net.cn^$important
+||71360.com^$important
+||reyun.com^$important
+||onemob.mobi^$important
+||emar.com^$important
+||gozendata.com^$important
+||gzads.com^$important
+||gz-data.com^$important
+||dwz.cn^
+||www.estrongs.com^
