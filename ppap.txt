@@ -355,3 +355,5 @@
 ||gz-data.com^$important
 ||dwz.cn^
 ||www.estrongs.com^
+||*._https.metrics-collector.xaidc.com^$important
+||metrics-collector.xaidc.com^$important
