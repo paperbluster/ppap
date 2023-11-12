@@ -357,3 +357,8 @@
 ||www.estrongs.com^
 ||*._https.metrics-collector.xaidc.com^$important
 ||metrics-collector.xaidc.com^$important
+||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+||apd-vodp2plogin.teg.tencent-cloud.net^$important
+||apd-pcdnwxnat.teg.tencent-cloud.net^$important
+||apd-pcdnwxstat.teg.tencent-cloud.net^$important
+||apd-vodp2pnat.teg.tencent-cloud.net^$important
