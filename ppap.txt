@@ -167,13 +167,10 @@
 ||dns.msftncsi.com^
 ||ipv6.msftconnecttest.com^
 # 微软更新相关
-||geo.prod.do.dsp.mp.microsoft.com^
-||browser.events.data.microsoft.com^
 # 英伟达
 ||lightstep.kaizen.nvidia.com^$important
 @@||update.pan.baidu.com^$important
 #####广告
-||beacons5.gvt2.com^
 ||sdk.51.la^
 ||resolver.msg.xiaomi.net^
 ||https://ynuf.aliapp.org/savewb.json?
@@ -189,7 +186,6 @@
 ||*.windowsupdate.com^
 ||collector.github.com^
 ||m.qpic.cn^
-@@||bigairport.*^
 @@||d.skk.moe^
 @@||api.ipify.org^
 #必须开放的谷歌
