@@ -369,3 +369,7 @@
 @@||appcloud2.in.zhihu.com^$important
 @@||crash2.zhihu.com^$important
 @@||m.qpic.cn^$important
+@@||*.fastly-analytics.com^$important
+@@||*.dns-detect.alicdn.com^$important
+@@||cdn.ynuf.aliapp.org^$important
+@@||ovh-cdn.perfops.io^$important
