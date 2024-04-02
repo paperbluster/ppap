@@ -358,3 +358,14 @@
 ||apd-pcdnwxnat.teg.tencent-cloud.net^$important
 ||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 ||apd-vodp2pnat.teg.tencent-cloud.net^$important
+# 必要的解锁
+@@||i.miji.bid^$important
+@@||pan.quark.cn^$important
+@@||cstaticdun.126.net^$important
+@@||mqtt.zhihu.com^$important
+@@||sugar.zhihu.com^$important
+@@||game.weixin.qq.com^$important
+@@||vi.l.qq.com^$important
+@@||appcloud2.in.zhihu.com^$important
+@@||crash2.zhihu.com^$important
+@@||m.qpic.cn^$important
