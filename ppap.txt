@@ -373,6 +373,5 @@
 @@||*.dns-detect.alicdn.com^$important
 @@||cdn.ynuf.aliapp.org^$important
 @@||ovh-cdn.perfops.io^$important
-||*.arpa^$important
 @@||stc.iqiyipic.com^$important
 
