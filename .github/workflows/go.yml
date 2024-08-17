@@ -1,0 +1,23 @@
+name: DNS Check
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # 每分钟运行一次
+
+jobs:
+  dns_check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v3
+      with:
+        go-version: '1.20'  # 指定Go版本
+
+    - name: Build and run DNS check
+      run: |
+        go build -o dns_check dns_check.go
+        ./dns_check
