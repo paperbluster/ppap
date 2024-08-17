@@ -2,7 +2,7 @@ name: DNS Check
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # 每分钟运行一次
+    - cron: '0 * * * *'  # 每分钟运行一次
 
 jobs:
   dns_check:
