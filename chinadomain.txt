@@ -151,4 +151,5 @@ xhscdn.com
 xhscdn.net
 duxiaoman.com
 tencentcs.com
+alidns.com
 
