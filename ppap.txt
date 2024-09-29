@@ -4,6 +4,11 @@
 ||logservice-drcn.dt.hihonorcloud.*^$important
 ||logservice1.dbankcloud.*^$important
 ||metrics1-drcn.dt.dbankcloud.*^$important
+||*.hispace.hihonorcloud.com^$important
+||api-prd-drcn.hiboard.hihonorcloud.com^$important
+||sdkserver-drcn.op.dbankcloud.cn^$important
+||abt-drcn.platform.dbankcloud.com^$important
+||*.in-addr.arpa^$important
 ||*.push.dbankcloud.*^$important
 ||grs.hihonorcloud.*^$important
 ||cloudres-dra.dbankcdn.com^$important
