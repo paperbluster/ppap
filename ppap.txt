@@ -340,4 +340,6 @@
 @@||cdn.ynuf.aliapp.org^$important
 @@||ovh-cdn.perfops.io^$important
 @@||stc.iqiyipic.com^$important
+# 2025广告
+||evewan.com^
 
