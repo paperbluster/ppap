@@ -1,5 +1,6 @@
 apm-and.zhipin.com
 api.qiniudns.com
+6fast.com
 httpdns.alicdn.com
 share.weiyun.com
 www.123pan.com
