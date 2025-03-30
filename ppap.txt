@@ -344,3 +344,9 @@
 ||evewan.com^
 ||stripchat.com^
 ||xxxviiijmp.com^
+#垃圾网站:色情，赌博，广告
+||evewan.com^
+||rarecams.com^
+||trackwilltrk.com^
+||tsyndicate.com^
+||blcdog.com^
