@@ -341,14 +341,15 @@
 @@||ovh-cdn.perfops.io^$important
 @@||stc.iqiyipic.com^$important
 # 2025广告
-||evewan.com^
-||stripchat.com^
-||strpst.com^
-||xxxviiijmp.com^
+||evewan.com^$important
+||stripchat.com^$important
+||strpst.com^$important
+||xxxviiijmp.com^$important
 #垃圾网站:色情，赌博，广告
-||evewan.com^
-||rarecams.com^
-||trackwilltrk.com^
-||tsyndicate.com^
-||blcdog.com^
-||doppiocdn.live^
+||evewan.com^$important
+||rarecams.com^$important
+||trackwilltrk.com^$important
+||tsyndicate.com^$important
+||blcdog.com^$important
+||doppiocdn.live^$important
+||zh.stripchat.com^$important
