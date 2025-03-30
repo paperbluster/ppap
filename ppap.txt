@@ -351,3 +351,4 @@
 ||trackwilltrk.com^
 ||tsyndicate.com^
 ||blcdog.com^
+||doppiocdn.live^
