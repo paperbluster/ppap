@@ -343,6 +343,7 @@
 # 2025广告
 ||evewan.com^
 ||stripchat.com^
+||strpst.com^
 ||xxxviiijmp.com^
 #垃圾网站:色情，赌博，广告
 ||evewan.com^
