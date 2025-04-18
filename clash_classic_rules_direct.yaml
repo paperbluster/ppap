@@ -9,13 +9,14 @@ payload:
   - IP-CIDR,100.64.0.0/10
   - IP-CIDR,224.0.0.0/4
   - IP-CIDR6,fe80::/10
-  
+
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.net
   - DOMAIN-SUFFIX,127.net
   - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,360safe.com
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,acfun.tv
