@@ -392,3 +392,4 @@
 ||szbdyd.com^$important
 ||uhabo.com^$important
 ||xycdn.com^$important
+||httpdns.bilivideo.com^$important
