@@ -661,3 +661,5 @@ DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,ispip.clang.cn
 DOMAIN-SUFFIX,www.googleapis.cn
+
+DOMAIN-SUFFIX,pythonhosted.org
