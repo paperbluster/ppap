@@ -393,3 +393,4 @@
 ||uhabo.com^$important
 ||xycdn.com^$important
 ||httpdns.bilivideo.com^$important
+||*.tuodanlab.com^$important
