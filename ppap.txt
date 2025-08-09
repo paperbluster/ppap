@@ -394,3 +394,6 @@
 ||xycdn.com^$important
 ||httpdns.bilivideo.com^$important
 ||*.tuodanlab.com^$important
+#六合彩
+||*.macaumarksix.com
+||*.777778.net
