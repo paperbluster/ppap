@@ -611,7 +611,9 @@ DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,pixman.io
 DOMAIN-SUFFIX,nyaa.si
-DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,pixiv.com
 DOMAIN-SUFFIX,v2ex.net
 DOMAIN-SUFFIX,v2ex.cc
@@ -665,6 +667,8 @@ DOMAIN-SUFFIX,www.googleapis.cn
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,v2ex.pro
 DOMAIN-SUFFIX,gold-usergeneratedcontent.net
 DOMAIN-SUFFIX,python.org
