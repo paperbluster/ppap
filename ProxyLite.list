@@ -666,6 +666,7 @@ DOMAIN-SUFFIX,ispip.clang.cn
 DOMAIN-SUFFIX,www.googleapis.cn
 
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pypa.io
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursor.com
