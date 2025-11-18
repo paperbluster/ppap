@@ -397,3 +397,4 @@
 #六合彩
 ||*.macaumarksix.com
 ||*.777778.net
+||*.ahdohpiechei.com
