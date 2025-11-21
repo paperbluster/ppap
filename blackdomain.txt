@@ -16,6 +16,9 @@ byteoversea.com
 chatbot.theb.ai
 cn.bing.com
 dns.google
+pikpak.io
+mypikpak.net
+mypikpak.com
 dnsleak.com
 dnsleaktest.com
 docker.com
