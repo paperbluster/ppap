@@ -686,3 +686,14 @@ DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,mozilla1.com
 DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,gyan.dev
+
+
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,linux.do
