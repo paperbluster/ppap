@@ -697,3 +697,5 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditstatic.com
