@@ -21,3 +21,13 @@
 ||*.miguvideo.com^$important
 ||*.migu.cn^$important
 ||*.acfun.cn^$important
+||*.spotify.com^$important
+||*.spotifycdn.com^$important
+||*.scdn.co^$important
+||*.music.apple.com^$important
+||*.toutiaoimg.com^$important
+||*.toutiaovod.com^$important
+||*.toutiaostatic.com^$important
+||*.toutiao.com^$important
+||*.v.qq.com^$important
+||v.qq.com^$important
