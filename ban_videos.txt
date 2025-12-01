@@ -14,3 +14,6 @@
 ||*.hitv.com^$important
 ||*.ixigua.com^$important
 ||*.tv.sohu.com^$important
+||*.netflix.com^$important
+||*.nflximg.net^$important
+||*.nflxso.net^$important
