@@ -31,3 +31,4 @@
 ||*.toutiao.com^$important
 ||*.v.qq.com^$important
 ||v.qq.com^$important
+||*.kugou.com^$important
