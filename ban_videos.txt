@@ -33,3 +33,4 @@
 ||v.qq.com^$important
 ||*.kugou.com^$important
 ||*.kuwo.cn^$important
+||*.ximalaya.com^$important
