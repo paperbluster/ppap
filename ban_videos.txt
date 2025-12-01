@@ -17,3 +17,5 @@
 ||*.netflix.com^$important
 ||*.nflximg.net^$important
 ||*.nflxso.net^$important
+||*.miguvideo.com^$important
+||*.migu.cn^$important
