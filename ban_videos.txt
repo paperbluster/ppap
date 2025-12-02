@@ -34,3 +34,5 @@
 ||*.kugou.com^$important
 ||*.kuwo.cn^$important
 ||*.ximalaya.com^$important
+||*.wpscdn.cn^$important
+||*.wps.cn^$important
