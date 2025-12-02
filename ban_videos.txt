@@ -36,3 +36,6 @@
 ||*.ximalaya.com^$important
 ||*.wpscdn.cn^$important
 ||*.wps.cn^$important
+||*.fun.tv^$important
+||*.funshion.com^$important
+
