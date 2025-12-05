@@ -43,3 +43,9 @@
 ||*.kdocs.cn^$important
 ||*.gvt2.com^$important
 ||*.gvt3.com^$important
+||huichuan-mc.sm.cn^$important
+||huichuan.sm.cn^$important
+||vps.uc.cn^$important
+||ulive-interact.uc.cn^$important
+||ulive-sc.uc.cn^$important
+||v.uc.cn^$important
