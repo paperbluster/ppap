@@ -38,4 +38,6 @@
 ||*.wps.cn^$important
 ||*.fun.tv^$important
 ||*.funshion.com^$important
-
+||kdocs.cn^$important
+||*.wps.cn^$important
+||*.kdocs.cn^$important
