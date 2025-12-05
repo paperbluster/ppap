@@ -41,3 +41,5 @@
 ||kdocs.cn^$important
 ||*.wps.cn^$important
 ||*.kdocs.cn^$important
+||*.gvt2.com^$important
+||*.gvt3.com^$important
