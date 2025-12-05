@@ -49,3 +49,10 @@
 ||ulive-interact.uc.cn^$important
 ||ulive-sc.uc.cn^$important
 ||v.uc.cn^$important
+||*.kaixinkan.com.cn^$important
+||*.yiyouliao.com^$important
+||*.alllook.tv^$important
+||*.ksord.com^$important
+||*.ksosoft.com^$important
+||wps-docer-property.*.*.com^$important
+||*.docer.com^$important
