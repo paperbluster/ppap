@@ -72,3 +72,4 @@
 ||*.letv.com^$important
 ||*.pptv.com^$important
 ||*.pplive.cn^$important
+||*.huya.com^$important
