@@ -8,8 +8,7 @@
 ||*.kwaicdn.com^$important
 ||*.wskwai.com^$important
 ||*.kuaishou.com^$important
-||*.bilibili.com^$important
-||*.bilivideo.com^$important
+
 ||*.video.qq.com^$important
 ||*.mgtv.com^$important
 ||*.hitv.com^$important
