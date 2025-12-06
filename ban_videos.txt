@@ -57,3 +57,5 @@
 ||*.docer.com^$important
 ||*.douyinvod.com^$important
 ||*.douyinliving.com^$important
+||*.amemv.com^$important
+||*.douyincdn.com^$important
