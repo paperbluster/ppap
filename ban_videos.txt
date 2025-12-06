@@ -59,3 +59,5 @@
 ||*.douyinliving.com^$important
 ||*.amemv.com^$important
 ||*.douyincdn.com^$important
+||*.douyinstatic.com^$important
+||*.douyinpic.com^$important
