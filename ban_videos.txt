@@ -64,3 +64,5 @@
 ||*.ytimg.com^$important
 ||*.sohu.com^$important
 ||*.sohucs.com^$important
+||*.itc.cn^$important
+||*.56.com^$important
