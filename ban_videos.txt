@@ -66,3 +66,7 @@
 ||*.sohucs.com^$important
 ||*.itc.cn^$important
 ||*.56.com^$important
+||*.letvcdn.com^$important
+||*.letvimg.com^$important
+||*.le.com^$important
+||*.letv.com^$important
