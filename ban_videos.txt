@@ -70,3 +70,5 @@
 ||*.letvimg.com^$important
 ||*.le.com^$important
 ||*.letv.com^$important
+||*.pptv.com^$important
+||*.pplive.cn^$important
