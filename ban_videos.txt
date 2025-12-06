@@ -62,3 +62,5 @@
 ||*.douyinstatic.com^$important
 ||*.douyinpic.com^$important
 ||*.ytimg.com^$important
+||*.sohu.com^$important
+||*.sohucs.com^$important
