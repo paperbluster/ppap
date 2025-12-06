@@ -61,3 +61,4 @@
 ||*.douyincdn.com^$important
 ||*.douyinstatic.com^$important
 ||*.douyinpic.com^$important
+||*.ytimg.com^$important
