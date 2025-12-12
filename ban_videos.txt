@@ -1,7 +1,7 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
 ||*.vivo.com.cn^$important
-||*.youtube.com^$important
-||*.tiktok.com^$important
+
+
 ||*.youku.com^$important
 ||*.iqiyi.com^$important
 ||*.douyin.com^$important
@@ -40,8 +40,7 @@
 ||kdocs.cn^$important
 ||*.wps.cn^$important
 ||*.kdocs.cn^$important
-||*.gvt2.com^$important
-||*.gvt3.com^$important
+
 ||huichuan-mc.sm.cn^$important
 ||huichuan.sm.cn^$important
 ||vps.uc.cn^$important
