@@ -60,7 +60,7 @@
 ||*.douyincdn.com^$important
 ||*.douyinstatic.com^$important
 ||*.douyinpic.com^$important
-||*.ytimg.com^$important
+
 ||*.sohu.com^$important
 ||*.sohucs.com^$important
 ||*.itc.cn^$important
