@@ -73,3 +73,5 @@
 ||*.pplive.cn^$important
 ||*.huya.com^$important
 ||*.windows.com^$important
+
+||*.ero-labs.*^$important
