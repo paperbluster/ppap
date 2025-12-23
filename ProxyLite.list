@@ -703,7 +703,7 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,gradle.org
-DOMAIN-SUFFIX,raspberrystudy.com
+
 DOMAIN,dl.google.com
 DOMAIN,repo.maven.apache.org
 DOMAIN,jitpack.io
