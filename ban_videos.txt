@@ -75,3 +75,4 @@
 ||*.windows.com^$important
 
 ||*.ero-labs.*^$important
+||*.tudou.com^$important
