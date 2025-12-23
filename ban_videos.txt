@@ -61,6 +61,7 @@
 ||*.douyinstatic.com^$important
 ||*.douyinpic.com^$important
 ||*.ihuoshanlive.com^$important
+||*.huoshanlive.com^$important
 ||*.sohu.com^$important
 ||*.sohucs.com^$important
 ||*.itc.cn^$important
