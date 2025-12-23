@@ -636,11 +636,11 @@ DOMAIN-SUFFIX,goofy-cdn.com
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,google.ru
-DOMAIN-SUFFIX,googleusercontent.com
+
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
+
+
+
 DOMAIN-SUFFIX,cangku.moe
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,kemono.su
