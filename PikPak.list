@@ -16,4 +16,7 @@ DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,pikpak.io
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pikpak.me
+DOMAIN,rcv5-sp.mypikpak.com
+DOMAIN,rcv4-sp.mypikpak.com
+DOMAIN,user.mypikpak.com
 DOMAIN-KEYWORD,mypikpak
