@@ -707,11 +707,11 @@ DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,sandai.net
-
+DOMAIN-SUFFIX,sandai.net
 DOMAIN,dl.google.com
 DOMAIN,repo.maven.apache.org
 DOMAIN,jitpack.io
-
+DOMAIN,ip.sb
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
