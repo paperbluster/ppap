@@ -15,6 +15,7 @@ https://github.com/v2fly/geoip/releases/latest/download/cn.dat
 
 
 v2ex.com
+*.githubcopilot.com
 *.mozilla.com
 *.ele.me
 *.elemecdn.com
