@@ -12,16 +12,23 @@ https://github.com/v2fly/geoip/releases/latest/download/cn.dat
 
 
 v2ex.com
-*.pipix.com
-*.pearvideo.com
-*.pptv.com
-*.mgtv.com
-*.laifeng.com
-*.huajiao.com
-*.ixigua.com
-*.le.com
-*.yy.com
-*.fun.tv
+*.ihuoshanlive.com
+*.pddpic.com
+*.pinduoduo.com
+*.pddglobalhr.com
+www.clarity.ms
+*.douyin.com
+*.tailwindcss.com
+*.jquery.com
+*.wnacg.com
+www.msftconnecttest.com
+*.windowsupdate.com
+www.googleadservices.com
+connectivitycheck.cbg-app.huawei.com
+grs.platform.dbankcloud.*
+grs.dbankcloud.*
+*.windows.com
+dns.msftncsi.com
 *.githubcopilot.com
 *.mozilla.com
 *.ele.me
@@ -34,7 +41,6 @@ v2ex.com
 *.51jobcdn.com
 *._adb-tls-connect._tcp
 *.jdpay.com
-*.ip.sb
 *.in-addr.arpa
 *.browserleaks.org
 *.gitcode.com
@@ -278,6 +284,9 @@ cursor-cdn.com
 *.skk.moe
 google.com
 *.android.com
+*.withgoogle.com
+*.onion
+*.python.org
 *.withgoogle.com
 *.onion
 *.python.org
