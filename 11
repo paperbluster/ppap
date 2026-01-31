@@ -15,6 +15,17 @@ https://github.com/v2fly/geoip/releases/latest/download/cn.dat
 
 
 v2ex.com
+*.ixigua.com
+*.mullvad.net
+*.dailygn.com
+*.bytemastatic.com
+*.ip-api.com
+*.miwifi.com
+*.surfsharkdns.com
+*.browserleaks.net
+*.nel.goog
+*.ipleak.net
+*.node-for-bigairport.win
 *.ihuoshanlive.com
 *.pddpic.com
 *.pinduoduo.com
@@ -44,7 +55,6 @@ dns.msftncsi.com
 *.51jobcdn.com
 *._adb-tls-connect._tcp
 *.jdpay.com
-*.in-addr.arpa
 *.browserleaks.org
 *.gitcode.com
 gitcode.com
@@ -287,9 +297,6 @@ cursor-cdn.com
 *.skk.moe
 google.com
 *.android.com
-*.withgoogle.com
-*.onion
-*.python.org
 *.withgoogle.com
 *.onion
 *.python.org
