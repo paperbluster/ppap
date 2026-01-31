@@ -10,6 +10,8 @@
 ||sdkserver-drcn.op.dbankcloud.cn^$important
 ||abt-drcn.platform.dbankcloud.com^$important
 ||*.in-addr.arpa^$important
+||*.ip6.arpa^$important
+||*.ip4.arpa^$important
 ||*.push.dbankcloud.*^$important
 ||grs.hihonorcloud.*^$important
 ||cloudres-dra.dbankcdn.com^$important
