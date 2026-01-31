@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,tuodanlab.com
 DOMAIN,client.wns.windows.com
+IP-CIDR,39.107.142.158/32,no-resolve
