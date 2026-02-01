@@ -12,6 +12,9 @@
 ||*.in-addr.arpa^$important
 ||*.ip6.arpa^$important
 ||*.ip4.arpa^$important
+||settings-win.data.microsoft.com^$important
+||*.events.data.microsoft.com^$important
+||events.gfe.nvidia.com^$important
 ||*.push.dbankcloud.*^$important
 ||grs.hihonorcloud.*^$important
 ||cloudres-dra.dbankcdn.com^$important
