@@ -3,6 +3,9 @@
 ||deff.nelreports.net^$important
 ||*.gos-gsp.io^$important
 ||*.ugdtimg.com^$important
+||deff.nelreports.net^$important
+||sapphire.bingviz.com^$important
+||cxcs.microsoft.net^$important
 ||id6.me^$important
 ||sapphire.bingviz.com^$important
 ||app-measurement.com^$important
