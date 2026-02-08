@@ -1,6 +1,7 @@
 #华为文件同步与备份,系统更新,网盘,软件检查，定位,防火墙,应用市场,开发者模式后台屏蔽(全部都是在不使用其产品功能下反复自动触发的惯犯)
 ||grs.dbankcloud.*^$important
 ||deff.nelreports.net^$important
+||*.gos-gsp.io^$important
 ||*.ugdtimg.com^$important
 ||id6.me^$important
 ||sapphire.bingviz.com^$important
