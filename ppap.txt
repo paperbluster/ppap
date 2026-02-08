@@ -3,6 +3,7 @@
 ||deff.nelreports.net^$important
 ||*.ugdtimg.com^$important
 ||id6.me^$important
+||sapphire.bingviz.com^$important
 ||app-measurement.com^$important
 ||*.msftncsi.com^$important
 ||installer-drcn.hispace.hihonorcloud.*^$important
