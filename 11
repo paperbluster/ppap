@@ -5,6 +5,8 @@ https://github.com/v2fly/geoip/releases/latest/download/cn.dat
 
 https://77.88.8.8/dns-query
 https://v.recipes/dns-query
+https://anycast.uncensoreddns.org/dns-query
+https://unicast.uncensoreddns.org/dns-query
 https://doh.opendns.com/dns-query
 
 
