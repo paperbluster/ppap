@@ -410,3 +410,6 @@
 ||*.macaumarksix.com
 ||*.777778.net
 ||*.ahdohpiechei.com
+#妥协
+@@||*.dbankcloud.*^$important
+@@||httpdns.c.cdnhwc2.com^$important
