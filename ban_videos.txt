@@ -1,4 +1,5 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||passwordsleakcheck-pa.googleapis.com^$important
 ||*.jetbrains.com^$important
 ||*.jetbrains.com.cn^$important
 ||content-autofill.googleapis.com^$important
