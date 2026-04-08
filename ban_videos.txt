@@ -1,4 +1,6 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||*.pornhub.com^$important
+||*.phncdn.com^$important
 ||*.x.com^$important
 ||*.twimg.com^$important
 ||t.co^$important
