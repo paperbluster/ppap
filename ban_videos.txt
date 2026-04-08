@@ -1,4 +1,6 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+
+||google.com^$important
 ||yt3.ggpht.com^$important
 ||*.googlevideo.com^$important
 ||*.ytimg.com^$important
@@ -28,6 +30,12 @@
 ||*.google.com^$important
 ||*.gvt2.com^$important
 ||*.gvt1.com^$important
+||*.gvt3.com^$important
+||*.gvt4.com^$important
+||*.gvt5.com^$important
+||*.gvt6.com^$important
+||*.gvt7.com^$important
+||*.gvt0.com^$important
 ||*.googleapis.com^$important
 ||*.googleusercontent.com^$important
 
