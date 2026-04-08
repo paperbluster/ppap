@@ -1,6 +1,11 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
 ||yt3.ggpht.com^$important
 ||play.google.com^$important
+||play.googleapis.com^$important
+||play-fe.googleapis.com^$important
+||play.samsungcloudcn.com^$important
+||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
+||playstoregatewayadapter-pa.googleapis.com^$important
 ||*.googlevideo.com^$important
 ||*.ytimg.com^$important
 ||*.youtube.com^$important
