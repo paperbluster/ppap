@@ -1,4 +1,9 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||yt3.ggpht.com^$important
+||*.googlevideo.com^$important
+||*.ytimg.com^$important
+||*.youtube.com^$important
+||youtube.com^$important
 ||*.vivo.com.cn^$important
 ||*.youku.com^$important
 ||*.iqiyi.com^$important
