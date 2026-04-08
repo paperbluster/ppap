@@ -1,4 +1,10 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||*.facebook.com^$important
+||mtalk.google.com^$important
+||alt1-mtalk.google.com^$important
+||alt8-mtalk.google.com^$important
+||alt5-mtalk.google.com^$important
+||alt4-mtalk.google.com^$important
 ||yt3.ggpht.com^$important
 ||play.google.com^$important
 ||play.googleapis.com^$important
