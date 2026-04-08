@@ -1,5 +1,5 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
-
+||api.individual.githubcopilot.com^$important
 ||google.com^$important
 ||yt3.ggpht.com^$important
 ||*.googlevideo.com^$important
