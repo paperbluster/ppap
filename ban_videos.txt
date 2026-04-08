@@ -1,4 +1,7 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||content-autofill.googleapis.com^$important
+||optimizationguide-pa.googleapis.com^$important
+||kv601.prod.do.dsp.mp.microsoft.com^$important
 ||*.facebook.com^$important
 ||mtalk.google.com^$important
 ||alt1-mtalk.google.com^$important
