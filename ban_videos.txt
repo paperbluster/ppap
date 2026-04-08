@@ -1,4 +1,6 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||*.jetbrains.com^$important
+||*.jetbrains.com.cn^$important
 ||content-autofill.googleapis.com^$important
 ||optimizationguide-pa.googleapis.com^$important
 ||kv601.prod.do.dsp.mp.microsoft.com^$important
