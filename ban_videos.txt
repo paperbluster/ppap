@@ -12,7 +12,7 @@
 ||*.twitter.com^$important
 ||x.com^$important
 ||api.individual.githubcopilot.com^$important
-
+@@||www.google.com^$important
 ||yt3.ggpht.com^$important
 ||*.googlevideo.com^$important
 ||*.ytimg.com^$important
