@@ -1,4 +1,7 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+@@||clients4.google.com^$important
+@@||accounts.google.com^$important
+@@||passwords.google.com^$important
 ||*.prod.do.dsp.mp.microsoft.com^$important
 ||www.sublimetext.com^$important
 ||nav.smartscreen.microsoft.com^$important
