@@ -1,4 +1,5 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+||*.facebook.net^$important
 @@||clients4.google.com^$important
 @@||accounts.google.com^$important
 @@||passwords.google.com^$important
