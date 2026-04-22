@@ -141,3 +141,6 @@
 ||szextshort.weixin.qq.com^$important
 ||szminorshot.weixin.qq.com^$important
 ||szshort.weixin.qq.com^$important
+
+#微软病毒库更新
+||definitionupdates.microsoft.com^$important
