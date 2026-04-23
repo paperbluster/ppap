@@ -1,4 +1,11 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+# github头像
+||avatars2.githubusercontent.com^$important
+||avatars.githubusercontent.com^$important
+||avatars1.githubusercontent.com^$important
+||avatars3.githubusercontent.com^$important
+||avatars0.githubusercontent.com^$important
+
 ||*.facebook.net^$important
 @@||clients4.google.com^$important
 @@||accounts.google.com^$important
