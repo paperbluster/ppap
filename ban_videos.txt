@@ -145,3 +145,4 @@
 
 #微软病毒库更新
 ||definitionupdates.microsoft.com^$important
+@@||login.docker.com^$important
