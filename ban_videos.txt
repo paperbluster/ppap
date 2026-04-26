@@ -1,4 +1,6 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+#国际头像
+||*.gravatar.com^$important
 # github头像
 ||avatars2.githubusercontent.com^$important
 ||avatars.githubusercontent.com^$important
