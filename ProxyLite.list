@@ -1,4 +1,6 @@
 # 代理列表
+#谷歌网络质量日志
+DOMAIN-SUFFIX,nel.goog
 #国际证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,digicert.com
