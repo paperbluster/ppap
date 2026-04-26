@@ -1,4 +1,7 @@
 # 代理列表
+#国际证书
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digicert.com
 DOMAIN,deb.debian.org
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
