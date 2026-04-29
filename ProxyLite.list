@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,nel.goog
 #国际证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,geotrust.com
+
 DOMAIN,deb.debian.org
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
