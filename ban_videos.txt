@@ -39,7 +39,7 @@
 ||yt3.ggpht.com^$important
 
 ||play.samsungcloudcn.com^$important
-
+||translate.googleapis.com^$important
 ||play.google.com^$important
 ||*.facebook.com^$important
 ||mtalk.google.com^$important
