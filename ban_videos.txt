@@ -40,7 +40,7 @@
 
 ||play.samsungcloudcn.com^$important
 
-
+||play.google.com^$important
 ||*.facebook.com^$important
 ||mtalk.google.com^$important
 ||alt1-mtalk.google.com^$important
