@@ -8,6 +8,8 @@
 ||avatars3.githubusercontent.com^$important
 ||avatars0.githubusercontent.com^$important
 
+||login.live.com^$important
+
 ||*.facebook.net^$important
 @@||chromewebstore.google.com^$important
 @@||mail.google.com^$important
