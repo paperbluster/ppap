@@ -1,4 +1,7 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+#在没有安卓设备的网络里会触发这个诡异的东西
+||android.clients.google.com^$important
+
 #国际头像
 ||*.gravatar.com^$important
 # github头像
