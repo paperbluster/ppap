@@ -3,6 +3,7 @@
 ||android.clients.google.com^$important
 ||edge.microsoft.com^$important
 ||*.tc.mm.bing.net^$important
+||img-s-msn-com.akamaized.net^$important
 #国际头像
 ||*.gravatar.com^$important
 # github头像
