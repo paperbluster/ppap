@@ -2,6 +2,7 @@
 #在没有安卓设备的网络里会触发这个诡异的东西
 ||android.clients.google.com^$important
 ||edge.microsoft.com^$important
+||*.tc.mm.bing.net^$important
 #国际头像
 ||*.gravatar.com^$important
 # github头像
