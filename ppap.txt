@@ -1,6 +1,8 @@
 #偷偷泄露用户网络ip
 ||ping0.cc^$important
 ||*.ping0.cc^$important
+#供应链投毒主要是在第三方公共静态css/js类里使用,行为是弹窗虚假弹窗偷取用户账户密码
+||polyfill.io^$important
 #国际头像
 ||*.gravatar.com^$important
 # github头像
