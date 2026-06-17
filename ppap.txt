@@ -1,3 +1,5 @@
+#windows壁纸
+||fd.api.iris.microsoft.com^$important
 #偷偷泄露用户网络ip
 ||ping0.cc^$important
 ||*.ping0.cc^$important
