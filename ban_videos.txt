@@ -43,6 +43,7 @@
 ||*.ytimg.com^$important
 ||*.youtube.com^$important
 ||youtube.com^$important
+||www.youtube.com^$important
 ||yt3.ggpht.com^$important
 
 ||play.samsungcloudcn.com^$important
