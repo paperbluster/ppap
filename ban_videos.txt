@@ -1,4 +1,9 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+#没有安装wps但是会有wps请求，有毒简直
+||*.wps.cn^$important
+||*.wpscdn.cn^$important
+||wps-docer-property.ks3-cn-beijing.ksyuncs.com^$important
+||wps-docer-property.file.docer.com^$important
 #在没有安卓设备的网络里会触发这个诡异的东西
 ||android.clients.google.com^$important
 ||edge.microsoft.com^$important
