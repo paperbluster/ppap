@@ -1,3 +1,6 @@
+#谷歌密码在线泄露检测，但我不相信
+||passwordsleakcheck-pa.googleapis.com^$important
+||content-autofill.googleapis.com^$important
 #windows壁纸
 ||fd.api.iris.microsoft.com^$important
 #偷偷泄露用户网络ip
