@@ -1,4 +1,9 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+#现在已经没有必要使用在线网页翻译了，有离线翻译技术了
+||translate.googleapis.com^$important
+||translate-pa.googleapis.com^$important
+#正常来说没有人需要英伟达
+||events.gfe.nvidia.com^$important
 #css,js供应链投毒，alist里偷取账户密码
 ||polyfill.io^$important
 #netflix
@@ -11,11 +16,31 @@
 ||*.wpscdn.cn^$important
 ||wps-docer-property.ks3-cn-beijing.ksyuncs.com^$important
 ||wps-docer-property.file.docer.com^$important
+||*.wpscdn.cn^$important
+||*.wps.cn^$important
 #在没有安卓设备的网络里会触发这个诡异的东西
 ||android.clients.google.com^$important
-||edge.microsoft.com^$important
+
 ||*.tc.mm.bing.net^$important
 ||img-s-msn-com.akamaized.net^$important
+
+#微软生态已经变成毒瘤，数据采集点实在是太多了
+||edge.microsoft.com^$important
+||nav.smartscreen.microsoft.com^$important
+||*.prod.do.dsp.mp.microsoft.com^$important
+||login.live.com^$important
+||*.events.data.microsoft.com^$important
+||*.delivery.mp.microsoft.com^$important
+||settings-win.data.microsoft.com^$important
+
+#中兴路由器有bug,疯狂请求他妈的官网
+||rot-dispatch-shcp-link.ztehome.com.cn^$important
+||rot-dispatch-sh.ztehome.com.cn^$important
+||appstore-gw-sh.ztehome.com.cn^$important
+||www.zte.com.cn^$important
+
+
+
 #国际头像
 ||*.gravatar.com^$important
 # github头像
@@ -25,32 +50,31 @@
 ||avatars3.githubusercontent.com^$important
 ||avatars0.githubusercontent.com^$important
 
-||login.live.com^$important
 
-||*.facebook.net^$important
+
 @@||chromewebstore.google.com^$important
 @@||mail.google.com^$important
 @@||clients4.google.com^$important
 @@||accounts.google.com^$important
 @@||passwords.google.com^$important
-||*.prod.do.dsp.mp.microsoft.com^$important
+
 ||www.sublimetext.com^$important
-||nav.smartscreen.microsoft.com^$important
+
 ||dc.services.visualstudio.com^$important
+
 ||*.samsungcloud.com^$important
 ||*.samsungknox.com^$important
 ||*.samsungapps.com^$important
 ||*.samsungosp.com^$important
+
+#我不看涩涩
 ||*.pornhub.com^$important
 ||*.phncdn.com^$important
-||*.x.com^$important
-||*.twimg.com^$important
-||t.co^$important
-||*.twitter.com^$important
-||x.com^$important
+
 ||api.individual.githubcopilot.com^$important
 @@||www.google.com^$important
 
+#youtube
 ||*.googlevideo.com^$important
 ||*.ytimg.com^$important
 ||*.youtube.com^$important
@@ -59,7 +83,7 @@
 ||yt3.ggpht.com^$important
 
 ||play.samsungcloudcn.com^$important
-||translate.googleapis.com^$important
+
 ||play.google.com^$important
 ||*.facebook.com^$important
 ||mtalk.google.com^$important
@@ -69,14 +93,14 @@
 ||alt4-mtalk.google.com^$important
 ||content-autofill.googleapis.com^$important
 ||optimizationguide-pa.googleapis.com^$important
-||kv601.prod.do.dsp.mp.microsoft.com^$important
+
+#在ai时代完全落伍的垃圾
 ||*.jetbrains.com^$important
 ||*.jetbrains.com.cn^$important
 
 ||*.vivo.com.cn^$important
 ||*.youku.com^$important
 ||*.iqiyi.com^$important
-
 ||*.kwaicdn.com^$important
 ||*.wskwai.com^$important
 ||*.kuaishou.com^$important
@@ -102,8 +126,7 @@
 ||*.kugou.com^$important
 ||*.kuwo.cn^$important
 ||*.ximalaya.com^$important
-||*.wpscdn.cn^$important
-||*.wps.cn^$important
+
 ||*.fun.tv^$important
 ||*.funshion.com^$important
 ||kdocs.cn^$important
