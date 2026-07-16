@@ -1,4 +1,6 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+#非必要
+||userlocation.googleapis.com^$important
 #现在已经没有必要使用在线网页翻译了，有离线翻译技术了
 ||translate.googleapis.com^$important
 ||translate-pa.googleapis.com^$important
