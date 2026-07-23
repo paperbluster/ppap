@@ -1,9 +1,4 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
-#非必要
-||userlocation.googleapis.com^$important
-#现在已经没有必要使用在线网页翻译了，有离线翻译技术了
-||translate.googleapis.com^$important
-||translate-pa.googleapis.com^$important
 #正常来说没有人需要英伟达
 ||events.gfe.nvidia.com^$important
 #css,js供应链投毒，alist里偷取账户密码
@@ -20,8 +15,6 @@
 ||wps-docer-property.file.docer.com^$important
 ||*.wpscdn.cn^$important
 ||*.wps.cn^$important
-#在没有安卓设备的网络里会触发这个诡异的东西
-||android.clients.google.com^$important
 
 ||*.tc.mm.bing.net^$important
 ||img-s-msn-com.akamaized.net^$important
@@ -86,15 +79,9 @@
 
 ||play.samsungcloudcn.com^$important
 
-||play.google.com^$important
+
 ||*.facebook.com^$important
-||mtalk.google.com^$important
-||alt1-mtalk.google.com^$important
-||alt8-mtalk.google.com^$important
-||alt5-mtalk.google.com^$important
-||alt4-mtalk.google.com^$important
-||content-autofill.googleapis.com^$important
-||optimizationguide-pa.googleapis.com^$important
+
 
 #在ai时代完全落伍的垃圾
 ||*.jetbrains.com^$important
