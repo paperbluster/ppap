@@ -69,14 +69,6 @@
 ||api.individual.githubcopilot.com^$important
 @@||www.google.com^$important
 
-#youtube
-||*.googlevideo.com^$important
-||*.ytimg.com^$important
-||*.youtube.com^$important
-||youtube.com^$important
-||www.youtube.com^$important
-||yt3.ggpht.com^$important
-
 ||play.samsungcloudcn.com^$important
 
 
@@ -87,37 +79,22 @@
 ||*.jetbrains.com^$important
 ||*.jetbrains.com.cn^$important
 
-||*.vivo.com.cn^$important
-||*.youku.com^$important
-||*.iqiyi.com^$important
-||*.kwaicdn.com^$important
-||*.wskwai.com^$important
-||*.kuaishou.com^$important
-||*.video.qq.com^$important
-||*.mgtv.com^$important
-||*.hitv.com^$important
-||*.ixigua.com^$important
-||*.tv.sohu.com^$important
 
-||*.miguvideo.com^$important
-||*.migu.cn^$important
-||*.acfun.cn^$important
+
+
+
+
+
 ||*.spotify.com^$important
 ||*.spotifycdn.com^$important
 ||*.scdn.co^$important
-||*.music.apple.com^$important
-||*.toutiaoimg.com^$important
-||*.toutiaovod.com^$important
-||*.toutiaostatic.com^$important
-||*.toutiao.com^$important
-||*.v.qq.com^$important
-||v.qq.com^$important
+
+
 ||*.kugou.com^$important
 ||*.kuwo.cn^$important
 ||*.ximalaya.com^$important
 
-||*.fun.tv^$important
-||*.funshion.com^$important
+
 ||kdocs.cn^$important
 ||*.kdocs.cn^$important
 ||huichuan-mc.sm.cn^$important
@@ -129,34 +106,14 @@
 ||*.kaixinkan.com.cn^$important
 ||*.yiyouliao.com^$important
 ||*.alllook.tv^$important
-||*.ksord.com^$important
-||*.ksosoft.com^$important
+
 ||wps-docer-property.*.*.com^$important
 ||*.docer.com^$important
 
 
-
-||*.sohu.com^$important
-||*.sohucs.com^$important
-||*.itc.cn^$important
-||*.56.com^$important
-||*.letvcdn.com^$important
-||*.letvimg.com^$important
-||*.le.com^$important
-||*.letv.com^$important
-||*.pptv.com^$important
-||*.pplive.cn^$important
-||*.huya.com^$important
 ||*.windows.com^$important
 ||*.ero-labs.*^$important
-||*.tudou.com^$important
-||*.ixiguavideo.com^$important
 
-
-
-||szextshort.weixin.qq.com^$important
-||szminorshot.weixin.qq.com^$important
-||szshort.weixin.qq.com^$important
 
 #微软病毒库更新
 ||definitionupdates.microsoft.com^$important
