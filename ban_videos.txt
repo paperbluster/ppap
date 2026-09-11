@@ -57,10 +57,7 @@
 
 ||dc.services.visualstudio.com^$important
 
-||*.samsungcloud.com^$important
-||*.samsungknox.com^$important
-||*.samsungapps.com^$important
-||*.samsungosp.com^$important
+
 
 #我不看涩涩
 ||*.pornhub.com^$important
@@ -69,7 +66,7 @@
 ||api.individual.githubcopilot.com^$important
 @@||www.google.com^$important
 
-||play.samsungcloudcn.com^$important
+
 
 
 ||*.facebook.com^$important
