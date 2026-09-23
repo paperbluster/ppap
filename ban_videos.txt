@@ -82,16 +82,19 @@
 ||*.xhmediacdn.com^$important
 ||*.xhamster.com^$important
 ||xhamster.com^$important
+#jable
+||*.jable.tv^$important
+||jable.tv^$important
+
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
+||*.wpscdn.com^$important
 ||wps-docer-property.ks3-cn-beijing.ksyuncs.com^$important
 ||wps-docer-property.file.docer.com^$important
 ||*.wpscdn.cn^$important
 ||*.wps.cn^$important
 ||*.wps.com^$important
-||*.tc.mm.bing.net^$important
-||img-s-msn-com.akamaized.net^$important
 
 #微软生态已经变成毒瘤，数据采集点实在是太多了
 ||edge.microsoft.com^$important
