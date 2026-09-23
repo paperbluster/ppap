@@ -32,7 +32,14 @@
 ||*.odycdn.com^$important
 ||*.odysee.com^$important
 ||odysee.com^$important
-
+#twitch
+||*.ext-twitch.tv^$important
+||*.live-video.net^$important
+||*.twitch.tv^$important
+||*.twitchcdn.net^$important
+||*.ttvnw.net^$important
+||*.live-video.net^$important
+||twitch.tv^$important
 
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
