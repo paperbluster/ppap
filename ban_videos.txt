@@ -5,6 +5,8 @@
 #谷歌广告
 ||googleads.g.doubleclick.net^$important
 ||www.google-analytics.com^$important
+#知乎上报
+||datahub.zhihu.com^$important
 #正常来说没有人需要英伟达
 ||events.gfe.nvidia.com^$important
 #css,js供应链投毒，alist里偷取账户密码
