@@ -62,9 +62,14 @@
 ||*.tiktokcdn.com^$important
 ||*.tiktok.com^$important
 ||*.tiktokw.us^$important
-
 ||*.ttwstatic.com^$important
-
+#xvideos
+||*.xvideos-cdn.com^$important
+||*.xvideos.com^$important
+||xvideos.com^$important
+#我不看涩涩
+||*.pornhub.com^$important
+||*.phncdn.com^$important
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
@@ -116,9 +121,7 @@
 
 
 
-#我不看涩涩
-||*.pornhub.com^$important
-||*.phncdn.com^$important
+
 
 ||api.individual.githubcopilot.com^$important
 @@||www.google.com^$important
