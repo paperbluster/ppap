@@ -85,7 +85,11 @@
 #jable
 ||*.jable.tv^$important
 ||jable.tv^$important
-
+||javdb.com^$important
+#patreon
+||patreon.com^$important
+||*.patreon.com^$important
+||*.patreonusercontent.com^$important
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
