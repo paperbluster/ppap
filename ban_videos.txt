@@ -93,6 +93,14 @@
 #xnxx
 ||*.xnxx-cdn.com^$important
 ||xnxx.com^$important
+||*.eporner.com^$important
+||*.beeg.com^$important
+||beeg.com^$important
+||*.hqporner.com^$important
+||hqporner.com^$important
+||huangguoai.com^$important
+||aihuangdou.com^$important
+||madaoav.com^$important
 
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
