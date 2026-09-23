@@ -1,6 +1,7 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
 #腾讯上报日志
 ||aeventlog.beacon.qq.com^$important
+||otheve.beacon.qq.com^$important
 #正常来说没有人需要英伟达
 ||events.gfe.nvidia.com^$important
 #css,js供应链投毒，alist里偷取账户密码
