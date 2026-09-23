@@ -22,8 +22,16 @@
 ||vimeo.bynder.com^$important
 ||*.vimeocdn.com^$important
 ||vimeo.com^$important
-
-
+#rumble
+||*.rumble.com^$important
+||*.rumble.cloud^$important
+||rumble.com^$important
+#odysee
+||*.odysee.tv^$important
+||*.odysee.live^$important
+||*.odycdn.com^$important
+||*.odysee.com^$important
+||odysee.com^$important
 
 
 #没有安装wps但是会有wps请求，有毒简直
