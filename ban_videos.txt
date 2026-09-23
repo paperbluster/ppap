@@ -49,6 +49,9 @@
 ||*.disney-plus.net^$important
 ||*.disneyplus.com^$important
 ||disneyplus.com^$important
+#primevideo
+||*.primevideo.com^$important
+||primevideo.com^$important
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
