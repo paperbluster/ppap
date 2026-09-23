@@ -90,6 +90,10 @@
 ||patreon.com^$important
 ||*.patreon.com^$important
 ||*.patreonusercontent.com^$important
+#xnxx
+||*.xnxx-cdn.com^$important
+||xnxx.com^$important
+
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
