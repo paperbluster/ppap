@@ -70,6 +70,13 @@
 #我不看涩涩
 ||*.pornhub.com^$important
 ||*.phncdn.com^$important
+#javbus
+||*.javcdn.cc^$important
+||*.javbus.hair^$important
+||*.javbus22.com^$important
+||*.jads.co^$important
+||*.javbus.com^$important
+||javbus.com^$important
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
