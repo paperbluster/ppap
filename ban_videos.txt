@@ -43,6 +43,12 @@
 #kick
 ||*.kick.com^$important
 ||kick.com^$important
+#disney
+||*.disney.com^$important
+||*.bamgrid.com^$important
+||*.disney-plus.net^$important
+||*.disneyplus.com^$important
+||disneyplus.com^$important
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
