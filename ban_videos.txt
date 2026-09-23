@@ -52,6 +52,12 @@
 #primevideo
 ||*.primevideo.com^$important
 ||primevideo.com^$important
+||*.hbomax.com^$important
+||hbomax.com^$important
+||*.nicovideo.jp^$important
+||*.nimg.jp^$important
+
+
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
