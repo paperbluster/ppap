@@ -77,6 +77,11 @@
 ||*.jads.co^$important
 ||*.javbus.com^$important
 ||javbus.com^$important
+#xhamster
+||*.xhcdn.com^$important
+||*.xhmediacdn.com^$important
+||*.xhamster.com^$important
+||xhamster.com^$important
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
