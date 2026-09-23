@@ -56,7 +56,14 @@
 ||hbomax.com^$important
 ||*.nicovideo.jp^$important
 ||*.nimg.jp^$important
+#tiktok
+||*.tiktokcdn-us.com^$important
+||*.tiktokv.us^$important
+||*.tiktokcdn.com^$important
+||*.tiktok.com^$important
+||*.tiktokw.us^$important
 
+||*.ttwstatic.com^$important
 
 #没有安装wps但是会有wps请求，有毒简直
 ||*.wps.cn^$important
@@ -65,7 +72,7 @@
 ||wps-docer-property.file.docer.com^$important
 ||*.wpscdn.cn^$important
 ||*.wps.cn^$important
-
+||*.wps.com^$important
 ||*.tc.mm.bing.net^$important
 ||img-s-msn-com.akamaized.net^$important
 
