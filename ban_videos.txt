@@ -26,6 +26,8 @@
 ||*.googlevideo.com^$important
 ||youtube.com^$important
 ||youtu.be^$important
+#这居然是谷歌账号相关域名！！！
+@@||accounts.youtube.com^$important
 #dailymotion
 ||*.dailymotion.com^$important
 ||*.dmcdn.net^$important
