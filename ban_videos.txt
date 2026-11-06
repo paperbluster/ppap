@@ -1,4 +1,6 @@
 #敲代码和打游戏时非常厌恶这些东西占用带宽
+#小米监控
+||dm.wo.com.cn^$important
 #腾讯上报日志
 ||aeventlog.beacon.qq.com^$important
 ||otheve.beacon.qq.com^$important
