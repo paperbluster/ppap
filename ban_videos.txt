@@ -4,6 +4,47 @@
 ||shuzilm.cn^$important
 #小米监控
 ||dm.wo.com.cn^$important
+
+! ---- 遥测 ----
+||tracking.miui.com^
+||tracking.intl.miui.com^
+||tracking.rus.miui.com^
+||tracking.india.miui.com^
+||data.mistat.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||ab.xiaomi.com^
+
+! ---- 云控配置 / 灰度通道 ----
+||mcc.inf.miui.com^
+||staging.mcc.inf.miui.com^
+||mcc.intl.inf.miui.com^
+||mcc.russia.inf.miui.com^
+||mcc.india.inf.miui.com^
+||preview.jupiter.sys.miui.com^
+
+! ---- 广告 / 广告 SDK ----
+||api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.rus.xiaomi.com^
+||ad.xiaomi.com^
+||ad.mi.com^
+||cdn.ad.xiaomi.com^
+||adlog.app.miui.com^
+
+! ---- 统计 / 联盟 ----
+||a.stat.xiaomi.com^
+||a.union.mi.com^
+||a.hl.mi.com^
+
+||sdkconfig.ad.india.xiaomi.com^
+||abtest.mistat.xiaomi.com^
+||abtest.mistat.intl.xiaomi.com^
+||connect.rom.miui.com^
+
+
 #腾讯上报日志
 ||aeventlog.beacon.qq.com^$important
 ||otheve.beacon.qq.com^$important
@@ -121,7 +162,7 @@
 ||aihuangdou.com^$important
 ||madaoav.com^$important
 
-#没有安装wps但是会有wps请求，有毒简直
+#没有安装wps但是会有wps请求，有毒简直,而且简直在ddos我宽带
 ||*.wps.cn^$important
 ||*.wpscdn.cn^$important
 ||*.wpscdn.com^$important
