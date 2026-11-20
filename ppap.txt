@@ -1,4 +1,5 @@
-
+#intel扫描电脑游戏做自动化显卡配置微调，什么弱智玩意
+||gameplayapi.intel.com^$important
 #windows壁纸
 ||fd.api.iris.microsoft.com^$important
 #偷偷泄露用户网络ip
